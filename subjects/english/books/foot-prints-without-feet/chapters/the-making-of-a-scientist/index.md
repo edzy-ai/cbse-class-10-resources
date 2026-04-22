@@ -1,7 +1,6 @@
 ---
 title: "Chapter 6: The Making of a Scientist | Class 10 English"
 description: "Free Class 10 English resource for Chapter 6: The Making of a Scientist from Book 2: Foot Prints Without feet. Starts on page 32 · Ends on page 38 · 7 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/foot-prints-without-feet/the-making-of-a-scientist/"
 layout: default
 ---
 

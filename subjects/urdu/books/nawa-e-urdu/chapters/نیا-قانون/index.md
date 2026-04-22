@@ -1,7 +1,6 @@
 ---
 title: "Chapter 2: نیا قانون | Class 10 Urdu"
 description: "Free Class 10 Urdu resource for Chapter 2: نیا قانون from Book 1: Nawa-e-urdu. Starts on page 19 · Ends on page 28 · 10 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/urdu/nawa-e-urdu/نیا-قانون/"
 layout: default
 ---
 

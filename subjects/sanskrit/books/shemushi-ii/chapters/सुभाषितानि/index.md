@@ -1,7 +1,6 @@
 ---
 title: "Chapter 5: सुभाषितानि | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 5: सुभाषितानि from Book 2: Shemushi - II. Starts on page 40 · Ends on page 47 · 8 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/shemushi-ii/सुभाषितानि/"
 layout: default
 ---
 

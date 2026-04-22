@@ -1,7 +1,6 @@
 ---
 title: "Chapter 5: CONSUMER RIGHTS | Class 10 Social Science"
 description: "Free Class 10 Social Science resource for Chapter 5: CONSUMER RIGHTS from Book 4: Understanding Economic Development. Starts on page 74 · Ends on page 89 · 16 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/social-science/understanding-economic-development/consumer-rights/"
 layout: default
 ---
 

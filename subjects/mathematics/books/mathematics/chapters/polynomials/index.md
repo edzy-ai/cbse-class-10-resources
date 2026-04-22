@@ -1,7 +1,6 @@
 ---
 title: "Chapter 2: Polynomials | Class 10 Mathematics"
 description: "Free Class 10 Mathematics resource for Chapter 2: Polynomials from Book 1: Mathematics. Starts on page 10 · Ends on page 23 · 14 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/mathematics/mathematics/polynomials/"
 layout: default
 ---
 

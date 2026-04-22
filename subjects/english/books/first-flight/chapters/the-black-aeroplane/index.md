@@ -1,7 +1,6 @@
 ---
 title: "Chapter 7: The Black Aeroplane | Class 10 English"
 description: "Free Class 10 English resource for Chapter 7: The Black Aeroplane from Book 1: First Flight. Starts on page 37 · Ends on page 42 · 6 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/first-flight/the-black-aeroplane/"
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Chapter 9: Dietary Considerations  and Food Quality | Class 10 Health and Physical Education"
 description: "Free Class 10 Health and Physical Education resource for Chapter 9: Dietary Considerations  and Food Quality from Book 1: Health and Physical Education. Starts on page 165 · Ends on page 180 · 16 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/health-and-physical-education/health-and-physical-education/dietary-considerations-and-food-quality/"
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Chapter 16: Mijbil the Otter | Class 10 English"
 description: "Free Class 10 English resource for Chapter 16: Mijbil the Otter from Book 1: First Flight. Starts on page 80 · Ends on page 92 · 13 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/first-flight/mijbil-the-otter/"
 layout: default
 ---
 

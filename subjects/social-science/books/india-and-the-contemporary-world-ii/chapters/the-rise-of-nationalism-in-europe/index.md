@@ -1,7 +1,6 @@
 ---
 title: "Chapter 1: The Rise of Nationalism in Europe | Class 10 Social Science"
 description: "Free Class 10 Social Science resource for Chapter 1: The Rise of Nationalism in Europe from Book 3: India and the Contemporary World - II. Starts on page 3 · Ends on page 28 · 26 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/social-science/india-and-the-contemporary-world-ii/the-rise-of-nationalism-in-europe/"
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Chapter 9: Light – Reflection and Refraction | Class 10 Science"
 description: "Free Class 10 Science resource for Chapter 9: Light – Reflection and Refraction from Book 1: Science. Starts on page 134 · Ends on page 160 · 27 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/science/science/light-reflection-and-refraction/"
 layout: default
 ---
 

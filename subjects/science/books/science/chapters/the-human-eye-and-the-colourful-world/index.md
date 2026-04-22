@@ -1,7 +1,6 @@
 ---
 title: "Chapter 10: The Human Eye and the Colourful World | Class 10 Science"
 description: "Free Class 10 Science resource for Chapter 10: The Human Eye and the Colourful World from Book 1: Science. Starts on page 161 · Ends on page 170 · 10 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/science/science/the-human-eye-and-the-colourful-world/"
 layout: default
 ---
 

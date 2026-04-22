@@ -1,7 +1,6 @@
 ---
 title: "Chapter 8: Heredity | Class 10 Science"
 description: "Free Class 10 Science resource for Chapter 8: Heredity from Book 1: Science. Starts on page 128 · Ends on page 133 · 6 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/science/science/heredity/"
 layout: default
 ---
 

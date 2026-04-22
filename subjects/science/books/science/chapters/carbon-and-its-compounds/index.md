@@ -1,7 +1,6 @@
 ---
 title: "Chapter 4: Carbon and its Compounds | Class 10 Science"
 description: "Free Class 10 Science resource for Chapter 4: Carbon and its Compounds from Book 1: Science. Starts on page 58 · Ends on page 78 · 21 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/science/science/carbon-and-its-compounds/"
 layout: default
 ---
 

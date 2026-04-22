@@ -1,7 +1,6 @@
 ---
 title: "Chapter 1: A Triumph of Surgery | Class 10 English"
 description: "Free Class 10 English resource for Chapter 1: A Triumph of Surgery from Book 2: Foot Prints Without feet. Starts on page 1 · Ends on page 7 · 7 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/foot-prints-without-feet/a-triumph-of-surgery/"
 layout: default
 ---
 

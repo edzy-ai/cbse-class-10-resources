@@ -1,7 +1,6 @@
 ---
 title: "Chapter 12: A Baker from Goa | Class 10 English"
 description: "Free Class 10 English resource for Chapter 12: A Baker from Goa from Book 1: First Flight. Starts on page 63 · Ends on page 67 · 5 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/first-flight/a-baker-from-goa/"
 layout: default
 ---
 

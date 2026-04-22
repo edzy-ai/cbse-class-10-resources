@@ -1,7 +1,6 @@
 ---
 title: "Chapter 4: जननी तुल्यवत्सला | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 4: जननी तुल्यवत्सला from Book 2: Shemushi - II. Starts on page 32 · Ends on page 39 · 8 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/shemushi-ii/जननी-तुल्यवत्सला/"
 layout: default
 ---
 

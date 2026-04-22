@@ -1,7 +1,6 @@
 ---
 title: "Chapter 8: مخلوط داستان | Class 10 Urdu"
 description: "Free Class 10 Urdu resource for Chapter 8: مخلوط داستان from Book 1: Nawa-e-urdu. Starts on page 75 · Ends on page 79 · 5 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/urdu/nawa-e-urdu/مخلوط-داستان/"
 layout: default
 ---
 

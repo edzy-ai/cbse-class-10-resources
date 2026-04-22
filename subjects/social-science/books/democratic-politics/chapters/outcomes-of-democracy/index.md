@@ -1,7 +1,6 @@
 ---
 title: "Chapter 5: Outcomes of Democracy | Class 10 Social Science"
 description: "Free Class 10 Social Science resource for Chapter 5: Outcomes of Democracy from Book 2: Democratic Politics. Starts on page 63 · Ends on page 74 · 12 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/social-science/democratic-politics/outcomes-of-democracy/"
 layout: default
 ---
 

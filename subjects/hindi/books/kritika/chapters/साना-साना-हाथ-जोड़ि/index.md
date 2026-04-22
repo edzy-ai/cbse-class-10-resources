@@ -1,7 +1,6 @@
 ---
 title: "Chapter 2: साना – साना हाथ जोड़ि… | Class 10 Hindi"
 description: "Free Class 10 Hindi resource for Chapter 2: साना – साना हाथ जोड़ि… from Book 4: Kritika. Starts on page 10 · Ends on page 23 · 14 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/hindi/kritika/साना-साना-हाथ-जोड़ि/"
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Book 4: Kritika | Class 10 Hindi"
 description: "Free Class 10 Hindi resources organized chapter-wise for Book 4: Kritika."
-permalink: "/class-10/hindi/kritika/"
 layout: default
 ---
 

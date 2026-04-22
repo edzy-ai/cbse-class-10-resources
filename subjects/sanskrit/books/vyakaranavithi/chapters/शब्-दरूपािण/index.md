@@ -1,7 +1,6 @@
 ---
 title: "Chapter 13: शब्‍दरूपािण | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 13: शब्‍दरूपािण from Book 1: Vyakaranavithi. Starts on page 154 · Ends on page 178 · 25 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/vyakaranavithi/शब्-दरूपािण/"
 layout: default
 ---
 

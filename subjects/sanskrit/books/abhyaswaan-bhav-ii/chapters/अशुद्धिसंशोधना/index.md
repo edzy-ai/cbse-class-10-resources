@@ -1,7 +1,6 @@
 ---
 title: "Chapter 12: अशुद्धिसंशोधना | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 12: अशुद्धिसंशोधना from Book 3: Abhyaswaan Bhav - II. Starts on page 89 · Ends on page 93 · 5 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/abhyaswaan-bhav-ii/अशुद्धिसंशोधना/"
 layout: default
 ---
 

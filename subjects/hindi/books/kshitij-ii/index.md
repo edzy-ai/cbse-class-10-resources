@@ -1,7 +1,6 @@
 ---
 title: "Book 1: Kshitij - II | Class 10 Hindi"
 description: "Free Class 10 Hindi resources organized chapter-wise for Book 1: Kshitij - II."
-permalink: "/class-10/hindi/kshitij-ii/"
 layout: default
 ---
 

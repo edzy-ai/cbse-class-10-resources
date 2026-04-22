@@ -1,7 +1,6 @@
 ---
 title: "English | Class 10"
 description: "Free Class 10 English resources organized by book and chapter."
-permalink: "/class-10/english/"
 layout: default
 ---
 

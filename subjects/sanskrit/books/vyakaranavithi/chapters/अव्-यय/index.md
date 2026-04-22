@@ -1,7 +1,6 @@
 ---
 title: "Chapter 7: अव्‍यय | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 7: अव्‍यय from Book 1: Vyakaranavithi. Starts on page 54 · Ends on page 60 · 7 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/vyakaranavithi/अव्-यय/"
 layout: default
 ---
 

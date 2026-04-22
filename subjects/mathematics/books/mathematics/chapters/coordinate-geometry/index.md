@@ -1,7 +1,6 @@
 ---
 title: "Chapter 7: Coordinate Geometry | Class 10 Mathematics"
 description: "Free Class 10 Mathematics resource for Chapter 7: Coordinate Geometry from Book 1: Mathematics. Starts on page 99 · Ends on page 112 · 14 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/mathematics/mathematics/coordinate-geometry/"
 layout: default
 ---
 

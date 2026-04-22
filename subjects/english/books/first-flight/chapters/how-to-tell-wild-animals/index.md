@@ -1,7 +1,6 @@
 ---
 title: "Chapter 8: How to Tell Wild Animals | Class 10 English"
 description: "Free Class 10 English resource for Chapter 8: How to Tell Wild Animals from Book 1: First Flight. Starts on page 43 · Ends on page 45 · 3 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/first-flight/how-to-tell-wild-animals/"
 layout: default
 ---
 

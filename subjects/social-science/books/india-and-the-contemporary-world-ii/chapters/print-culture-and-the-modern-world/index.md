@@ -1,7 +1,6 @@
 ---
 title: "Chapter 5: Print Culture and the Modern World | Class 10 Social Science"
 description: "Free Class 10 Social Science resource for Chapter 5: Print Culture and the Modern World from Book 3: India and the Contemporary World - II. Starts on page 105 · Ends on page 128 · 24 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/social-science/india-and-the-contemporary-world-ii/print-culture-and-the-modern-world/"
 layout: default
 ---
 

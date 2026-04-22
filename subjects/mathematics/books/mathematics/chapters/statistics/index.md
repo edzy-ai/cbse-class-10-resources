@@ -1,7 +1,6 @@
 ---
 title: "Chapter 13: Statistics | Class 10 Mathematics"
 description: "Free Class 10 Mathematics resource for Chapter 13: Statistics from Book 1: Mathematics. Starts on page 171 · Ends on page 200 · 30 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/mathematics/mathematics/statistics/"
 layout: default
 ---
 

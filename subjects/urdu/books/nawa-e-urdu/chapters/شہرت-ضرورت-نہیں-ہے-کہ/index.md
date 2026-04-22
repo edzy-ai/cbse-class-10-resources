@@ -1,7 +1,6 @@
 ---
 title: "Chapter 10: شہرت ضرورت نہیں ہے کہ | Class 10 Urdu"
 description: "Free Class 10 Urdu resource for Chapter 10: شہرت ضرورت نہیں ہے کہ from Book 1: Nawa-e-urdu. Starts on page 92 · Ends on page 95 · 4 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/urdu/nawa-e-urdu/شہرت-ضرورت-نہیں-ہے-کہ/"
 layout: default
 ---
 

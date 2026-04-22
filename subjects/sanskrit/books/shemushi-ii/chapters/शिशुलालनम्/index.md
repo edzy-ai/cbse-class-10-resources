@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: शिशुलालनम् | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 3: शिशुलालनम् from Book 2: Shemushi - II. Starts on page 22 · Ends on page 31 · 10 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/shemushi-ii/शिशुलालनम्/"
 layout: default
 ---
 

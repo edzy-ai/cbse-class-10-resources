@@ -1,7 +1,6 @@
 ---
 title: "Chapter 10: तताँरा वामीरो कथा | Class 10 Hindi"
 description: "Free Class 10 Hindi resource for Chapter 10: तताँरा वामीरो कथा from Book 2: Sparsh. Starts on page 67 · Ends on page 78 · 12 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/hindi/sparsh/तताँरा-वामीरो-कथा/"
 layout: default
 ---
 

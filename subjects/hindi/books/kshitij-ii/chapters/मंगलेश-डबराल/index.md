@@ -1,7 +1,6 @@
 ---
 title: "Chapter 7: मंगलेश डबराल | Class 10 Hindi"
 description: "Free Class 10 Hindi resource for Chapter 7: मंगलेश डबराल from Book 1: Kshitij - II. Starts on page 35 · Ends on page 42 · 8 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/hindi/kshitij-ii/मंगलेश-डबराल/"
 layout: default
 ---
 

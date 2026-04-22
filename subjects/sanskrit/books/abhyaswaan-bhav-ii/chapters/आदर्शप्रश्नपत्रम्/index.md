@@ -1,7 +1,6 @@
 ---
 title: "Chapter 14: आदर्शप्रश्नपत्रम् | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 14: आदर्शप्रश्नपत्रम् from Book 3: Abhyaswaan Bhav - II. Starts on page 101 · Ends on page 107 · 7 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/abhyaswaan-bhav-ii/आदर्शप्रश्नपत्रम्/"
 layout: default
 ---
 

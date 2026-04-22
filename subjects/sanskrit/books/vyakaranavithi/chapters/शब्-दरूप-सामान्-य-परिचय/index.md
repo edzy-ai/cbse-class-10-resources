@@ -1,7 +1,6 @@
 ---
 title: "Chapter 4: शब्‍दरूप सामान्‍य परिचय | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 4: शब्‍दरूप सामान्‍य परिचय from Book 1: Vyakaranavithi. Starts on page 35 · Ends on page 40 · 6 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/vyakaranavithi/शब्-दरूप-सामान्-य-परिचय/"
 layout: default
 ---
 

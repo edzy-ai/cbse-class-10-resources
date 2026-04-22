@@ -1,7 +1,6 @@
 ---
 title: "Chapter 11: Areas Related to Circles | Class 10 Mathematics"
 description: "Free Class 10 Mathematics resource for Chapter 11: Areas Related to Circles from Book 1: Mathematics. Starts on page 154 · Ends on page 160 · 7 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/mathematics/mathematics/areas-related-to-circles/"
 layout: default
 ---
 

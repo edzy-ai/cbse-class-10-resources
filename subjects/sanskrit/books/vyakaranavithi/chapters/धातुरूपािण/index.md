@@ -1,7 +1,6 @@
 ---
 title: "Chapter 14: धातुरूपािण | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 14: धातुरूपािण from Book 1: Vyakaranavithi. Starts on page 179 · Ends on page 228 · 50 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/vyakaranavithi/धातुरूपािण/"
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Chapter 13: Coorg | Class 10 English"
 description: "Free Class 10 English resource for Chapter 13: Coorg from Book 1: First Flight. Starts on page 68 · Ends on page 71 · 4 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/first-flight/coorg/"
 layout: default
 ---
 

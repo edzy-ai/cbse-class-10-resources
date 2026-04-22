@@ -1,7 +1,6 @@
 ---
 title: "Chapter 7: Lifelines of National Economy | Class 10 Social Science"
 description: "Free Class 10 Social Science resource for Chapter 7: Lifelines of National Economy from Book 1: Contemporary India. Starts on page 71 · Ends on page 83 · 13 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/social-science/contemporary-india/lifelines-of-national-economy/"
 layout: default
 ---
 

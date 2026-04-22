@@ -1,7 +1,6 @@
 ---
 title: "Chapter 11: Healthy Community Living | Class 10 Health and Physical Education"
 description: "Free Class 10 Health and Physical Education resource for Chapter 11: Healthy Community Living from Book 1: Health and Physical Education. Starts on page 193 · Ends on page 204 · 12 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/health-and-physical-education/health-and-physical-education/healthy-community-living/"
 layout: default
 ---
 

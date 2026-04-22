@@ -2,7 +2,6 @@
 layout: default
 title: "Class 10 CBSE Resources"
 description: "Free Class 10 CBSE resources with chapter-wise books, chapters, and AI study prompts."
-permalink: /
 ---
 
 # Class 10 CBSE Resources

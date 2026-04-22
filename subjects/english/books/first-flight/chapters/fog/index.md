@@ -1,7 +1,6 @@
 ---
 title: "Chapter 17: Fog | Class 10 English"
 description: "Free Class 10 English resource for Chapter 17: Fog from Book 1: First Flight. Starts on page 93 · Ends on page 93 · 1 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/first-flight/fog/"
 layout: default
 ---
 

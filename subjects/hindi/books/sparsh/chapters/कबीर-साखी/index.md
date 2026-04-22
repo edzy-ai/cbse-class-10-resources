@@ -1,7 +1,6 @@
 ---
 title: "Chapter 1: कबीर – साखी | Class 10 Hindi"
 description: "Free Class 10 Hindi resource for Chapter 1: कबीर – साखी from Book 2: Sparsh. Starts on page 3 · Ends on page 7 · 5 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/hindi/sparsh/कबीर-साखी/"
 layout: default
 ---
 

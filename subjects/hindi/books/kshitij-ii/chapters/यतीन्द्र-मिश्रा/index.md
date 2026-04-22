@@ -1,7 +1,6 @@
 ---
 title: "Chapter 12: यतीन्द्र मिश्रा | Class 10 Hindi"
 description: "Free Class 10 Hindi resource for Chapter 12: यतीन्द्र मिश्रा from Book 1: Kshitij - II. Starts on page 79 · Ends on page 90 · 12 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/hindi/kshitij-ii/यतीन्द्र-मिश्रा/"
 layout: default
 ---
 

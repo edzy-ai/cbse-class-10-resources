@@ -1,7 +1,6 @@
 ---
 title: "Chapter 8: स्वयं प्रकाश | Class 10 Hindi"
 description: "Free Class 10 Hindi resource for Chapter 8: स्वयं प्रकाश from Book 1: Kshitij - II. Starts on page 43 · Ends on page 51 · 9 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/hindi/kshitij-ii/स्वयं-प्रकाश/"
 layout: default
 ---
 

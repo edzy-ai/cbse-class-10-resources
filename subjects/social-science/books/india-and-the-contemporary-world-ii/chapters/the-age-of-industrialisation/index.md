@@ -1,7 +1,6 @@
 ---
 title: "Chapter 4: The Age of Industrialisation | Class 10 Social Science"
 description: "Free Class 10 Social Science resource for Chapter 4: The Age of Industrialisation from Book 3: India and the Contemporary World - II. Starts on page 79 · Ends on page 104 · 26 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/social-science/india-and-the-contemporary-world-ii/the-age-of-industrialisation/"
 layout: default
 ---
 

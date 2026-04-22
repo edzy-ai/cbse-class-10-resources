@@ -1,7 +1,6 @@
 ---
 title: "Chapter 1: A Letter to God | Class 10 English"
 description: "Free Class 10 English resource for Chapter 1: A Letter to God from Book 1: First Flight. Starts on page 1 · Ends on page 13 · 13 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/first-flight/a-letter-to-god/"
 layout: default
 ---
 

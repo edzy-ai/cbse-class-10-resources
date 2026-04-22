@@ -1,7 +1,6 @@
 ---
 title: "Book 3: India and the Contemporary World - II | Class 10 Social Science"
 description: "Free Class 10 Social Science resources organized chapter-wise for Book 3: India and the Contemporary World - II."
-permalink: "/class-10/social-science/india-and-the-contemporary-world-ii/"
 layout: default
 ---
 

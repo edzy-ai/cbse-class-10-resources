@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: Metals and Non-metals | Class 10 Science"
 description: "Free Class 10 Science resource for Chapter 3: Metals and Non-metals from Book 1: Science. Starts on page 37 · Ends on page 57 · 21 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/science/science/metals-and-non-metals/"
 layout: default
 ---
 

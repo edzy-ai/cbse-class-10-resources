@@ -1,7 +1,6 @@
 ---
 title: "Chapter 2: Nationalism in India | Class 10 Social Science"
 description: "Free Class 10 Social Science resource for Chapter 2: Nationalism in India from Book 3: India and the Contemporary World - II. Starts on page 29 · Ends on page 53 · 25 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/social-science/india-and-the-contemporary-world-ii/nationalism-in-india/"
 layout: default
 ---
 

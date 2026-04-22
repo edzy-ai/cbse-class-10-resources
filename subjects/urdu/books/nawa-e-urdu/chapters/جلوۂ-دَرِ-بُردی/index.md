@@ -1,7 +1,6 @@
 ---
 title: "Chapter 13: جلوۂ دَرِ بُردی | Class 10 Urdu"
 description: "Free Class 10 Urdu resource for Chapter 13: جلوۂ دَرِ بُردی from Book 1: Nawa-e-urdu. Starts on page 130 · Ends on page 154 · 25 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/urdu/nawa-e-urdu/جلوۂ-دَرِ-بُردی/"
 layout: default
 ---
 

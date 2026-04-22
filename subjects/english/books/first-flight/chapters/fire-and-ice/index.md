@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: Fire and Ice | Class 10 English"
 description: "Free Class 10 English resource for Chapter 3: Fire and Ice from Book 1: First Flight. Starts on page 15 · Ends on page 15 · 1 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/first-flight/fire-and-ice/"
 layout: default
 ---
 

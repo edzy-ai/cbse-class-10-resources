@@ -1,7 +1,6 @@
 ---
 title: "Chapter 12: निदा फाजली – अब कहाँ दूसरे के दुख से दुखी होने वाले | Class 10 Hindi"
 description: "Free Class 10 Hindi resource for Chapter 12: निदा फाजली – अब कहाँ दूसरे के दुख से दुखी होने वाले from Book 2: Sparsh. Starts on page 89 · Ends on page 96 · 8 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/hindi/sparsh/निदा-फाजली-अब-कहाँ-दूसरे-के-दुख-से-दुखी-होने-वाले/"
 layout: default
 ---
 

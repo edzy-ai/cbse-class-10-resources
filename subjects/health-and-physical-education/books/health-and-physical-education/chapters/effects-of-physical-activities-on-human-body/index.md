@@ -1,7 +1,6 @@
 ---
 title: "Chapter 2: Effects of Physical Activities  on Human Body | Class 10 Health and Physical Education"
 description: "Free Class 10 Health and Physical Education resource for Chapter 2: Effects of Physical Activities  on Human Body from Book 1: Health and Physical Education. Starts on page 11 · Ends on page 22 · 12 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/health-and-physical-education/health-and-physical-education/effects-of-physical-activities-on-human-body/"
 layout: default
 ---
 

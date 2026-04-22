@@ -1,7 +1,6 @@
 ---
 title: "Chapter 11: ماحول چاہیے | Class 10 Urdu"
 description: "Free Class 10 Urdu resource for Chapter 11: ماحول چاہیے from Book 1: Nawa-e-urdu. Starts on page 98 · Ends on page 101 · 4 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/urdu/nawa-e-urdu/ماحول-چاہیے/"
 layout: default
 ---
 

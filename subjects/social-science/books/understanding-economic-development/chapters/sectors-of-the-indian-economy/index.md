@@ -1,7 +1,6 @@
 ---
 title: "Chapter 2: SECTORS OF THE INDIAN ECONOMY | Class 10 Social Science"
 description: "Free Class 10 Social Science resource for Chapter 2: SECTORS OF THE INDIAN ECONOMY from Book 4: Understanding Economic Development. Starts on page 18 · Ends on page 37 · 20 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/social-science/understanding-economic-development/sectors-of-the-indian-economy/"
 layout: default
 ---
 

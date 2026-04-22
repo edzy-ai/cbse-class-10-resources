@@ -1,7 +1,6 @@
 ---
 title: "Chapter 12: व्यायामः सर्वदा पथ्यः | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 12: व्यायामः सर्वदा पथ्यः from Book 2: Shemushi - II. Starts on page 0 · Ends on page 0. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/shemushi-ii/व्यायामः-सर्वदा-पथ्यः/"
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Book 1: Vyakaranavithi | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resources organized chapter-wise for Book 1: Vyakaranavithi."
-permalink: "/class-10/sanskrit/vyakaranavithi/"
 layout: default
 ---
 

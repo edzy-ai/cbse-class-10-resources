@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: मैं क्यों लिखता हूँ? | Class 10 Hindi"
 description: "Free Class 10 Hindi resource for Chapter 3: मैं क्यों लिखता हूँ? from Book 4: Kritika. Starts on page 25 · Ends on page 28 · 4 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/hindi/kritika/मैं-क्यों-लिखता-हूँ/"
 layout: default
 ---
 

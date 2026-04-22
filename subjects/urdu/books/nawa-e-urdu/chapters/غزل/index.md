@@ -1,7 +1,6 @@
 ---
 title: "Chapter 12: غزل | Class 10 Urdu"
 description: "Free Class 10 Urdu resource for Chapter 12: غزل from Book 1: Nawa-e-urdu. Starts on page 0 · Ends on page 0. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/urdu/nawa-e-urdu/غزل/"
 layout: default
 ---
 

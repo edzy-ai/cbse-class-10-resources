@@ -1,7 +1,6 @@
 ---
 title: "Chapter 9: भूकंपविभीषिका | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 9: भूकंपविभीषिका from Book 2: Shemushi - II. Starts on page 74 · Ends on page 81 · 8 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/shemushi-ii/भूकंपविभीषिका/"
 layout: default
 ---
 

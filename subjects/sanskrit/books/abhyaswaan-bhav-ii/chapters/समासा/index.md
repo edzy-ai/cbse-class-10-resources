@@ -1,7 +1,6 @@
 ---
 title: "Chapter 7: समासा: | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 7: समासा: from Book 3: Abhyaswaan Bhav - II. Starts on page 48 · Ends on page 56 · 9 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/abhyaswaan-bhav-ii/समासा/"
 layout: default
 ---
 

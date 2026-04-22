@@ -1,7 +1,6 @@
 ---
 title: "Chapter 5: Glimpses of India | Class 10 English"
 description: "Free Class 10 English resource for Chapter 5: Glimpses of India from Book 3: Words and Expressions - II. Starts on page 57 · Ends on page 72 · 16 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/words-and-expressions-ii/glimpses-of-india/"
 layout: default
 ---
 

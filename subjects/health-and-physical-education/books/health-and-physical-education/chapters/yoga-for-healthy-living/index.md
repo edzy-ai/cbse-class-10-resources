@@ -1,7 +1,6 @@
 ---
 title: "Chapter 8: Yoga for Healthy Living | Class 10 Health and Physical Education"
 description: "Free Class 10 Health and Physical Education resource for Chapter 8: Yoga for Healthy Living from Book 1: Health and Physical Education. Starts on page 133 · Ends on page 164 · 32 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/health-and-physical-education/health-and-physical-education/yoga-for-healthy-living/"
 layout: default
 ---
 

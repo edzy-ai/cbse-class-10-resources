@@ -1,7 +1,6 @@
 ---
 title: "Chapter 4: Nelson Mandela: Long Walk to Freedom | Class 10 English"
 description: "Free Class 10 English resource for Chapter 4: Nelson Mandela: Long Walk to Freedom from Book 1: First Flight. Starts on page 16 · Ends on page 28 · 13 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/first-flight/nelson-mandela-long-walk-to-freedom/"
 layout: default
 ---
 

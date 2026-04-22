@@ -1,7 +1,6 @@
 ---
 title: "Mathematics | Class 10"
 description: "Free Class 10 Mathematics resources organized by book and chapter."
-permalink: "/class-10/mathematics/"
 layout: default
 ---
 

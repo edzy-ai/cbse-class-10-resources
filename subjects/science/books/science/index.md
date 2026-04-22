@@ -1,7 +1,6 @@
 ---
 title: "Book 1: Science | Class 10 Science"
 description: "Free Class 10 Science resources organized chapter-wise for Book 1: Science."
-permalink: "/class-10/science/science/"
 layout: default
 ---
 

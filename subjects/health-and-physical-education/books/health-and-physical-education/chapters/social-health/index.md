@@ -1,7 +1,6 @@
 ---
 title: "Chapter 12: Social Health | Class 10 Health and Physical Education"
 description: "Free Class 10 Health and Physical Education resource for Chapter 12: Social Health from Book 1: Health and Physical Education. Starts on page 205 · Ends on page 214 · 10 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/health-and-physical-education/health-and-physical-education/social-health/"
 layout: default
 ---
 

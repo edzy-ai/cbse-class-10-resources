@@ -1,7 +1,6 @@
 ---
 title: "Book 1: Health and Physical Education | Class 10 Health and Physical Education"
 description: "Free Class 10 Health and Physical Education resources organized chapter-wise for Book 1: Health and Physical Education."
-permalink: "/class-10/health-and-physical-education/health-and-physical-education/"
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Chapter 7: عورتوں کے حقوق | Class 10 Urdu"
 description: "Free Class 10 Urdu resource for Chapter 7: عورتوں کے حقوق from Book 1: Nawa-e-urdu. Starts on page 70 · Ends on page 72 · 3 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/urdu/nawa-e-urdu/عورتوں-کے-حقوق/"
 layout: default
 ---
 

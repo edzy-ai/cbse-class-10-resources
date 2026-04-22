@@ -1,7 +1,6 @@
 ---
 title: "Chapter 15: The Trees | Class 10 English"
 description: "Free Class 10 English resource for Chapter 15: The Trees from Book 1: First Flight. Starts on page 77 · Ends on page 79 · 3 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/first-flight/the-trees/"
 layout: default
 ---
 

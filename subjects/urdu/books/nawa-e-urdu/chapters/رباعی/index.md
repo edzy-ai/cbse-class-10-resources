@@ -1,7 +1,6 @@
 ---
 title: "Chapter 15: رباعی | Class 10 Urdu"
 description: "Free Class 10 Urdu resource for Chapter 15: رباعی from Book 1: Nawa-e-urdu. Starts on page 155 · Ends on page 167 · 13 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/urdu/nawa-e-urdu/رباعی/"
 layout: default
 ---
 

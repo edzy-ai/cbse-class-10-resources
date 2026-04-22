@@ -1,7 +1,6 @@
 ---
 title: "Book 3: Words and Expressions - II | Class 10 English"
 description: "Free Class 10 English resources organized chapter-wise for Book 3: Words and Expressions - II."
-permalink: "/class-10/english/words-and-expressions-ii/"
 layout: default
 ---
 

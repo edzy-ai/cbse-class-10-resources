@@ -1,7 +1,6 @@
 ---
 title: "Chapter 2: Nelson Mandela: Long Walk to Freedom | Class 10 English"
 description: "Free Class 10 English resource for Chapter 2: Nelson Mandela: Long Walk to Freedom from Book 3: Words and Expressions - II. Starts on page 17 · Ends on page 30 · 14 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/words-and-expressions-ii/nelson-mandela-long-walk-to-freedom/"
 layout: default
 ---
 

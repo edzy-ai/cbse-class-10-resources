@@ -1,7 +1,6 @@
 ---
 title: "Chapter 9: Some Applications of Trigonometry | Class 10 Mathematics"
 description: "Free Class 10 Mathematics resource for Chapter 9: Some Applications of Trigonometry from Book 1: Mathematics. Starts on page 133 · Ends on page 143 · 11 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/mathematics/mathematics/some-applications-of-trigonometry/"
 layout: default
 ---
 

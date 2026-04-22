@@ -1,7 +1,6 @@
 ---
 title: "Chapter 1: جھولا | Class 10 Urdu"
 description: "Free Class 10 Urdu resource for Chapter 1: جھولا from Book 1: Nawa-e-urdu. Starts on page 5 · Ends on page 16 · 12 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/urdu/nawa-e-urdu/جھولا/"
 layout: default
 ---
 

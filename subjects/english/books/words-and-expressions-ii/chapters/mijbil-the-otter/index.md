@@ -1,7 +1,6 @@
 ---
 title: "Chapter 6: Mijbil the Otter | Class 10 English"
 description: "Free Class 10 English resource for Chapter 6: Mijbil the Otter from Book 3: Words and Expressions - II. Starts on page 73 · Ends on page 92 · 20 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/words-and-expressions-ii/mijbil-the-otter/"
 layout: default
 ---
 

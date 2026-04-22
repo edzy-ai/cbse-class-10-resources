@@ -1,7 +1,6 @@
 ---
 title: "Book 3: Sanchayan - II | Class 10 Hindi"
 description: "Free Class 10 Hindi resources organized chapter-wise for Book 3: Sanchayan - II."
-permalink: "/class-10/hindi/sanchayan-ii/"
 layout: default
 ---
 

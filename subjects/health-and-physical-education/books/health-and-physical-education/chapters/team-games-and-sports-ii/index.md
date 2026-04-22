@@ -1,7 +1,6 @@
 ---
 title: "Chapter 7: Team Games and Sports II | Class 10 Health and Physical Education"
 description: "Free Class 10 Health and Physical Education resource for Chapter 7: Team Games and Sports II from Book 1: Health and Physical Education. Starts on page 111 · Ends on page 132 · 22 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/health-and-physical-education/health-and-physical-education/team-games-and-sports-ii/"
 layout: default
 ---
 

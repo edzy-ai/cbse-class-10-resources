@@ -1,7 +1,6 @@
 ---
 title: "Chapter 11: वाच्यम् | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 11: वाच्यम् from Book 3: Abhyaswaan Bhav - II. Starts on page 84 · Ends on page 88 · 5 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/abhyaswaan-bhav-ii/वाच्यम्/"
 layout: default
 ---
 

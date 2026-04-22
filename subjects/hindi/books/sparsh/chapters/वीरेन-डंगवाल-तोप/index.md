@@ -1,7 +1,6 @@
 ---
 title: "Chapter 5: वीरेन डंगवाल – तोप | Class 10 Hindi"
 description: "Free Class 10 Hindi resource for Chapter 5: वीरेन डंगवाल – तोप from Book 2: Sparsh. Starts on page 26 · Ends on page 30 · 5 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/hindi/sparsh/वीरेन-डंगवाल-तोप/"
 layout: default
 ---
 

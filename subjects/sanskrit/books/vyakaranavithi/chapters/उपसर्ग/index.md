@@ -1,7 +1,6 @@
 ---
 title: "Chapter 6: उपसर्ग | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 6: उपसर्ग from Book 1: Vyakaranavithi. Starts on page 49 · Ends on page 53 · 5 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/vyakaranavithi/उपसर्ग/"
 layout: default
 ---
 

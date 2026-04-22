@@ -1,7 +1,6 @@
 ---
 title: "Chapter 7: How do Organisms Reproduce? | Class 10 Science"
 description: "Free Class 10 Science resource for Chapter 7: How do Organisms Reproduce? from Book 1: Science. Starts on page 113 · Ends on page 127 · 15 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/science/science/how-do-organisms-reproduce/"
 layout: default
 ---
 

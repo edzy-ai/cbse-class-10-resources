@@ -1,7 +1,6 @@
 ---
 title: "Chapter 6: Control and Coordination | Class 10 Science"
 description: "Free Class 10 Science resource for Chapter 6: Control and Coordination from Book 1: Science. Starts on page 100 · Ends on page 112 · 13 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/science/science/control-and-coordination/"
 layout: default
 ---
 

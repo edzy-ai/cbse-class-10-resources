@@ -1,7 +1,6 @@
 ---
 title: "Chapter 1: Chemical Reactions and Equations | Class 10 Science"
 description: "Free Class 10 Science resource for Chapter 1: Chemical Reactions and Equations from Book 1: Science. Starts on page 1 · Ends on page 16 · 16 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/science/science/chemical-reactions-and-equations/"
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Chapter 5: A Tiger in the Zoo | Class 10 English"
 description: "Free Class 10 English resource for Chapter 5: A Tiger in the Zoo from Book 1: First Flight. Starts on page 29 · Ends on page 31 · 3 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/first-flight/a-tiger-in-the-zoo/"
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Chapter 7: The Necklace | Class 10 English"
 description: "Free Class 10 English resource for Chapter 7: The Necklace from Book 2: Foot Prints Without feet. Starts on page 39 · Ends on page 46 · 8 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/foot-prints-without-feet/the-necklace/"
 layout: default
 ---
 

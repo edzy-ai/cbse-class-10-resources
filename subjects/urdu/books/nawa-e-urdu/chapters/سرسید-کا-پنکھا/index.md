@@ -1,7 +1,6 @@
 ---
 title: "Chapter 4: سرسید کا پنکھا | Class 10 Urdu"
 description: "Free Class 10 Urdu resource for Chapter 4: سرسید کا پنکھا from Book 1: Nawa-e-urdu. Starts on page 41 · Ends on page 47 · 7 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/urdu/nawa-e-urdu/سرسید-کا-پنکھا/"
 layout: default
 ---
 

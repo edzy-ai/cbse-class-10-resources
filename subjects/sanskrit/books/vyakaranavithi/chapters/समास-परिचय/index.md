@@ -1,7 +1,6 @@
 ---
 title: "Chapter 9: समास परिचय | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 9: समास परिचय from Book 1: Vyakaranavithi. Starts on page 101 · Ends on page 109 · 9 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/vyakaranavithi/समास-परिचय/"
 layout: default
 ---
 

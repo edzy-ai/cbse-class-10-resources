@@ -1,7 +1,6 @@
 ---
 title: "Book 2: Foot Prints Without feet | Class 10 English"
 description: "Free Class 10 English resources organized chapter-wise for Book 2: Foot Prints Without feet."
-permalink: "/class-10/english/foot-prints-without-feet/"
 layout: default
 ---
 

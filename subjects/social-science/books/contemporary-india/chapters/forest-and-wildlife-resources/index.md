@@ -1,7 +1,6 @@
 ---
 title: "Chapter 2: Forest and Wildlife Resources | Class 10 Social Science"
 description: "Free Class 10 Social Science resource for Chapter 2: Forest and Wildlife Resources from Book 1: Contemporary India. Starts on page 13 · Ends on page 18 · 6 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/social-science/contemporary-india/forest-and-wildlife-resources/"
 layout: default
 ---
 

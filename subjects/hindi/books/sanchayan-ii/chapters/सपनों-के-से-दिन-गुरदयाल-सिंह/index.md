@@ -1,7 +1,6 @@
 ---
 title: "Chapter 2: सपनों के से दिन गुरदयाल सिंह | Class 10 Hindi"
 description: "Free Class 10 Hindi resource for Chapter 2: सपनों के से दिन गुरदयाल सिंह from Book 3: Sanchayan - II. Starts on page 20 · Ends on page 31 · 12 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/hindi/sanchayan-ii/सपनों-के-से-दिन-गुरदयाल-सिंह/"
 layout: default
 ---
 

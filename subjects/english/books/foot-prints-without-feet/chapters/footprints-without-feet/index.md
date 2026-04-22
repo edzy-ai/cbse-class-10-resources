@@ -1,7 +1,6 @@
 ---
 title: "Chapter 5: Footprints without Feet | Class 10 English"
 description: "Free Class 10 English resource for Chapter 5: Footprints without Feet from Book 2: Foot Prints Without feet. Starts on page 26 · Ends on page 31 · 6 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/foot-prints-without-feet/footprints-without-feet/"
 layout: default
 ---
 

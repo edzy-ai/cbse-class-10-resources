@@ -1,7 +1,6 @@
 ---
 title: "Chapter 8: Bholi | Class 10 English"
 description: "Free Class 10 English resource for Chapter 8: Bholi from Book 2: Foot Prints Without feet. Starts on page 47 · Ends on page 55 · 9 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/foot-prints-without-feet/bholi/"
 layout: default
 ---
 

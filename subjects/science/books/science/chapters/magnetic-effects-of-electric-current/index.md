@@ -1,7 +1,6 @@
 ---
 title: "Chapter 12: Magnetic Effects of Electric Current | Class 10 Science"
 description: "Free Class 10 Science resource for Chapter 12: Magnetic Effects of Electric Current from Book 1: Science. Starts on page 195 · Ends on page 207 · 13 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/science/science/magnetic-effects-of-electric-current/"
 layout: default
 ---
 

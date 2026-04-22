@@ -1,7 +1,6 @@
 ---
 title: "Chapter 9: چپکیت کا مضمون | Class 10 Urdu"
 description: "Free Class 10 Urdu resource for Chapter 9: چپکیت کا مضمون from Book 1: Nawa-e-urdu. Starts on page 82 · Ends on page 89 · 8 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/urdu/nawa-e-urdu/چپکیت-کا-مضمون/"
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Chapter 4: A Question of Trust | Class 10 English"
 description: "Free Class 10 English resource for Chapter 4: A Question of Trust from Book 2: Foot Prints Without feet. Starts on page 20 · Ends on page 25 · 6 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/foot-prints-without-feet/a-question-of-trust/"
 layout: default
 ---
 

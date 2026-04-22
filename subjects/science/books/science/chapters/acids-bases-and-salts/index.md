@@ -1,7 +1,6 @@
 ---
 title: "Chapter 2: Acids, Bases and Salts | Class 10 Science"
 description: "Free Class 10 Science resource for Chapter 2: Acids, Bases and Salts from Book 1: Science. Starts on page 17 · Ends on page 36 · 20 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/science/science/acids-bases-and-salts/"
 layout: default
 ---
 

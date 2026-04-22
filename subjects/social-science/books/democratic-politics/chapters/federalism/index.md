@@ -1,7 +1,6 @@
 ---
 title: "Chapter 2: Federalism | Class 10 Social Science"
 description: "Free Class 10 Social Science resource for Chapter 2: Federalism from Book 2: Democratic Politics. Starts on page 13 · Ends on page 28 · 16 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/social-science/democratic-politics/federalism/"
 layout: default
 ---
 

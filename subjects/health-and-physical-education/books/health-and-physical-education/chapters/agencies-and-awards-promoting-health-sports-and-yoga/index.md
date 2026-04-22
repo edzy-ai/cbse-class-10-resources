@@ -1,7 +1,6 @@
 ---
 title: "Chapter 13: Agencies and Awards Promoting  Health, Sports and Yoga | Class 10 Health and Physical Education"
 description: "Free Class 10 Health and Physical Education resource for Chapter 13: Agencies and Awards Promoting  Health, Sports and Yoga from Book 1: Health and Physical Education. Starts on page 215 · Ends on page 223 · 9 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/health-and-physical-education/health-and-physical-education/agencies-and-awards-promoting-health-sports-and-yoga/"
 layout: default
 ---
 

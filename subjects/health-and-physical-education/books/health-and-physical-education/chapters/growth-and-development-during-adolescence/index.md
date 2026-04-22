@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: Growth and Development  during Adolescence | Class 10 Health and Physical Education"
 description: "Free Class 10 Health and Physical Education resource for Chapter 3: Growth and Development  during Adolescence from Book 1: Health and Physical Education. Starts on page 23 · Ends on page 34 · 12 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/health-and-physical-education/health-and-physical-education/growth-and-development-during-adolescence/"
 layout: default
 ---
 

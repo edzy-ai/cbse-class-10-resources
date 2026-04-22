@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: Pair of Linear Equations in Two Variables | Class 10 Mathematics"
 description: "Free Class 10 Mathematics resource for Chapter 3: Pair of Linear Equations in Two Variables from Book 1: Mathematics. Starts on page 24 · Ends on page 37 · 14 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/mathematics/mathematics/pair-of-linear-equations-in-two-variables/"
 layout: default
 ---
 

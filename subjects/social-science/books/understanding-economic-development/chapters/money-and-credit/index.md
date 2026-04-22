@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: MONEY AND CREDIT | Class 10 Social Science"
 description: "Free Class 10 Social Science resource for Chapter 3: MONEY AND CREDIT from Book 4: Understanding Economic Development. Starts on page 38 · Ends on page 53 · 16 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/social-science/understanding-economic-development/money-and-credit/"
 layout: default
 ---
 

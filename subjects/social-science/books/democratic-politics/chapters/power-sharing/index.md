@@ -1,7 +1,6 @@
 ---
 title: "Chapter 1: Power-sharing | Class 10 Social Science"
 description: "Free Class 10 Social Science resource for Chapter 1: Power-sharing from Book 2: Democratic Politics. Starts on page 1 · Ends on page 12 · 12 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/social-science/democratic-politics/power-sharing/"
 layout: default
 ---
 

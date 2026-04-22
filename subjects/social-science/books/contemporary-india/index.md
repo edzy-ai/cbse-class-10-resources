@@ -1,7 +1,6 @@
 ---
 title: "Book 1: Contemporary India | Class 10 Social Science"
 description: "Free Class 10 Social Science resources organized chapter-wise for Book 1: Contemporary India."
-permalink: "/class-10/social-science/contemporary-india/"
 layout: default
 ---
 

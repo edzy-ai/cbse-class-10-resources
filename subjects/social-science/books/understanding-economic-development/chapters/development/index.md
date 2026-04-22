@@ -1,7 +1,6 @@
 ---
 title: "Chapter 1: DEVELOPMENT | Class 10 Social Science"
 description: "Free Class 10 Social Science resource for Chapter 1: DEVELOPMENT from Book 4: Understanding Economic Development. Starts on page 2 · Ends on page 17 · 16 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/social-science/understanding-economic-development/development/"
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Chapter 4: चित्रवर्णनम् | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 4: चित्रवर्णनम् from Book 3: Abhyaswaan Bhav - II. Starts on page 21 · Ends on page 30 · 10 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/abhyaswaan-bhav-ii/चित्रवर्णनम्/"
 layout: default
 ---
 

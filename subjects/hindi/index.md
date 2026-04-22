@@ -1,7 +1,6 @@
 ---
 title: "Hindi | Class 10"
 description: "Free Class 10 Hindi resources organized by book and chapter."
-permalink: "/class-10/hindi/"
 layout: default
 ---
 

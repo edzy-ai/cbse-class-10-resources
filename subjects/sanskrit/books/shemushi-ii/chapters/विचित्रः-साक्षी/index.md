@@ -1,7 +1,6 @@
 ---
 title: "Chapter 7: विचित्रः साक्षी | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 7: विचित्रः साक्षी from Book 2: Shemushi - II. Starts on page 58 · Ends on page 66 · 9 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/shemushi-ii/विचित्रः-साक्षी/"
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Chapter 4: Quadratic Equations | Class 10 Mathematics"
 description: "Free Class 10 Mathematics resource for Chapter 4: Quadratic Equations from Book 1: Mathematics. Starts on page 38 · Ends on page 47 · 10 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/mathematics/mathematics/quadratic-equations/"
 layout: default
 ---
 

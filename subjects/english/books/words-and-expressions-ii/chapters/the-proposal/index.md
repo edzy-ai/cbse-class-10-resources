@@ -1,7 +1,6 @@
 ---
 title: "Chapter 9: The Proposal | Class 10 English"
 description: "Free Class 10 English resource for Chapter 9: The Proposal from Book 3: Words and Expressions - II. Starts on page 124 · Ends on page 139 · 16 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/words-and-expressions-ii/the-proposal/"
 layout: default
 ---
 

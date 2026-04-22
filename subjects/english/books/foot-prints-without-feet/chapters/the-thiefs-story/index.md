@@ -1,7 +1,6 @@
 ---
 title: "Chapter 2: The Thief’s Story | Class 10 English"
 description: "Free Class 10 English resource for Chapter 2: The Thief’s Story from Book 2: Foot Prints Without feet. Starts on page 8 · Ends on page 13 · 6 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/foot-prints-without-feet/the-thiefs-story/"
 layout: default
 ---
 

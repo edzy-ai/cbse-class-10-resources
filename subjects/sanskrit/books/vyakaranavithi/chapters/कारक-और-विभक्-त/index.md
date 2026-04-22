@@ -1,7 +1,6 @@
 ---
 title: "Chapter 10: कारक और विभक्‍त | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 10: कारक और विभक्‍त from Book 1: Vyakaranavithi. Starts on page 110 · Ends on page 123 · 14 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/vyakaranavithi/कारक-और-विभक्-त/"
 layout: default
 ---
 

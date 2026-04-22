@@ -1,7 +1,6 @@
 ---
 title: "Chapter 6: सौहार्दं प्रकृतेः शोभा | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 6: सौहार्दं प्रकृतेः शोभा from Book 2: Shemushi - II. Starts on page 48 · Ends on page 57 · 10 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/shemushi-ii/सौहार्दं-प्रकृतेः-शोभा/"
 layout: default
 ---
 

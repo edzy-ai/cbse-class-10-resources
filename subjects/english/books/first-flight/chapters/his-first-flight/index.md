@@ -1,7 +1,6 @@
 ---
 title: "Chapter 6: His First Flight | Class 10 English"
 description: "Free Class 10 English resource for Chapter 6: His First Flight from Book 1: First Flight. Starts on page 32 · Ends on page 36 · 5 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/first-flight/his-first-flight/"
 layout: default
 ---
 

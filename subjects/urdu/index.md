@@ -1,7 +1,6 @@
 ---
 title: "Urdu | Class 10"
 description: "Free Class 10 Urdu resources organized by book and chapter."
-permalink: "/class-10/urdu/"
 layout: default
 ---
 

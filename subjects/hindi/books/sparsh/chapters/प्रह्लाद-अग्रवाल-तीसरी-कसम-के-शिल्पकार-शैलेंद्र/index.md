@@ -1,7 +1,6 @@
 ---
 title: "Chapter 11: प्रह्लाद अग्रवाल – तीसरी कसम के शिल्पकार शैलेंद्र | Class 10 Hindi"
 description: "Free Class 10 Hindi resource for Chapter 11: प्रह्लाद अग्रवाल – तीसरी कसम के शिल्पकार शैलेंद्र from Book 2: Sparsh. Starts on page 79 · Ends on page 88 · 10 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/hindi/sparsh/प्रह्लाद-अग्रवाल-तीसरी-कसम-के-शिल्पकार-शैलेंद्र/"
 layout: default
 ---
 

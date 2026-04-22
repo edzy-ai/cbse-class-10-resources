@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: टोपी शुक्ला राही मासूम रज़ा | Class 10 Hindi"
 description: "Free Class 10 Hindi resource for Chapter 3: टोपी शुक्ला राही मासूम रज़ा from Book 3: Sanchayan - II. Starts on page 32 · Ends on page 44 · 13 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/hindi/sanchayan-ii/टोपी-शुक्ला-राही-मासूम-रज़ा/"
 layout: default
 ---
 

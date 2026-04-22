@@ -1,7 +1,6 @@
 ---
 title: "Chapter 8: सूक्तयः | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 8: सूक्तयः from Book 2: Shemushi - II. Starts on page 67 · Ends on page 73 · 7 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/shemushi-ii/सूक्तयः/"
 layout: default
 ---
 

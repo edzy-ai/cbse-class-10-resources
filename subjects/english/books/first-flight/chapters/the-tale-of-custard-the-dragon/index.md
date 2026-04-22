@@ -1,7 +1,6 @@
 ---
 title: "Chapter 19: The Tale of Custard the Dragon | Class 10 English"
 description: "Free Class 10 English resource for Chapter 19: The Tale of Custard the Dragon from Book 1: First Flight. Starts on page 107 · Ends on page 110 · 4 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/first-flight/the-tale-of-custard-the-dragon/"
 layout: default
 ---
 

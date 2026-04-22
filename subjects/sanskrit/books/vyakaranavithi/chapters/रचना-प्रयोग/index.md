@@ -1,7 +1,6 @@
 ---
 title: "Chapter 12: रचना प्रयोग | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 12: रचना प्रयोग from Book 1: Vyakaranavithi. Starts on page 129 · Ends on page 153 · 25 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/vyakaranavithi/रचना-प्रयोग/"
 layout: default
 ---
 

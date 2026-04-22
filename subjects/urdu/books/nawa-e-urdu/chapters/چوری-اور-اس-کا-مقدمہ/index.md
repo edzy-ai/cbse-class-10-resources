@@ -1,7 +1,6 @@
 ---
 title: "Chapter 6: چوری اور اس کا مقدمہ | Class 10 Urdu"
 description: "Free Class 10 Urdu resource for Chapter 6: چوری اور اس کا مقدمہ from Book 1: Nawa-e-urdu. Starts on page 61 · Ends on page 67 · 7 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/urdu/nawa-e-urdu/چوری-اور-اس-کا-مقدمہ/"
 layout: default
 ---
 

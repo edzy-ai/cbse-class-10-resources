@@ -1,7 +1,6 @@
 ---
 title: "Chapter 1: Physical Education:  Relation with other Subjects | Class 10 Health and Physical Education"
 description: "Free Class 10 Health and Physical Education resource for Chapter 1: Physical Education:  Relation with other Subjects from Book 1: Health and Physical Education. Starts on page 1 · Ends on page 10 · 10 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/health-and-physical-education/health-and-physical-education/physical-education-relation-with-other-subjects/"
 layout: default
 ---
 

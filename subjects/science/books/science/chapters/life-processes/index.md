@@ -1,7 +1,6 @@
 ---
 title: "Chapter 5: Life Processes | Class 10 Science"
 description: "Free Class 10 Science resource for Chapter 5: Life Processes from Book 1: Science. Starts on page 79 · Ends on page 99 · 21 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/science/science/life-processes/"
 layout: default
 ---
 

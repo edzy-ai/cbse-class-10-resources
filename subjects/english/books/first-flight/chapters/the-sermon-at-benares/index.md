@@ -1,7 +1,6 @@
 ---
 title: "Chapter 20: The Sermon at Benares | Class 10 English"
 description: "Free Class 10 English resource for Chapter 20: The Sermon at Benares from Book 1: First Flight. Starts on page 111 · Ends on page 117 · 7 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/first-flight/the-sermon-at-benares/"
 layout: default
 ---
 

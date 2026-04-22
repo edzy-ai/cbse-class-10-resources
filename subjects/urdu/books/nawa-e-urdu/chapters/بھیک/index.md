@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: بھیک | Class 10 Urdu"
 description: "Free Class 10 Urdu resource for Chapter 3: بھیک from Book 1: Nawa-e-urdu. Starts on page 31 · Ends on page 37 · 7 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/urdu/nawa-e-urdu/بھیک/"
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Book 3: Abhyaswaan Bhav - II | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resources organized chapter-wise for Book 3: Abhyaswaan Bhav - II."
-permalink: "/class-10/sanskrit/abhyaswaan-bhav-ii/"
 layout: default
 ---
 

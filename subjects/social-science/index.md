@@ -1,7 +1,6 @@
 ---
 title: "Social Science | Class 10"
 description: "Free Class 10 Social Science resources organized by book and chapter."
-permalink: "/class-10/social-science/"
 layout: default
 ---
 

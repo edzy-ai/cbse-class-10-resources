@@ -1,7 +1,6 @@
 ---
 title: "Chapter 6: Triangles | Class 10 Mathematics"
 description: "Free Class 10 Mathematics resource for Chapter 6: Triangles from Book 1: Mathematics. Starts on page 73 · Ends on page 97 · 25 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/mathematics/mathematics/triangles/"
 layout: default
 ---
 

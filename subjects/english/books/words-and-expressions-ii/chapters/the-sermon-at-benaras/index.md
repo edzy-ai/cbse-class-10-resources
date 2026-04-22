@@ -1,7 +1,6 @@
 ---
 title: "Chapter 8: The Sermon at Benaras | Class 10 English"
 description: "Free Class 10 English resource for Chapter 8: The Sermon at Benaras from Book 3: Words and Expressions - II. Starts on page 109 · Ends on page 123 · 15 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/words-and-expressions-ii/the-sermon-at-benaras/"
 layout: default
 ---
 

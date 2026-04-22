@@ -1,7 +1,6 @@
 ---
 title: "Chapter 5: रचनानुवादः (वाक्यरचनाकौशलम्) | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 5: रचनानुवादः (वाक्यरचनाकौशलम्) from Book 3: Abhyaswaan Bhav - II. Starts on page 31 · Ends on page 37 · 7 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/abhyaswaan-bhav-ii/रचनानुवादः-वाक्यरचनाकौशलम्/"
 layout: default
 ---
 

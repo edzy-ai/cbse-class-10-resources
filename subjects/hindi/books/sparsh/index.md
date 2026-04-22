@@ -1,7 +1,6 @@
 ---
 title: "Book 2: Sparsh | Class 10 Hindi"
 description: "Free Class 10 Hindi resources organized chapter-wise for Book 2: Sparsh."
-permalink: "/class-10/hindi/sparsh/"
 layout: default
 ---
 

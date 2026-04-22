@@ -1,7 +1,6 @@
 ---
 title: "Chapter 14: Tea from Assam | Class 10 English"
 description: "Free Class 10 English resource for Chapter 14: Tea from Assam from Book 1: First Flight. Starts on page 72 · Ends on page 76 · 5 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/first-flight/tea-from-assam/"
 layout: default
 ---
 

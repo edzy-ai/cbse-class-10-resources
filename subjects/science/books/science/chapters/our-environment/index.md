@@ -1,7 +1,6 @@
 ---
 title: "Chapter 13: Our Environment | Class 10 Science"
 description: "Free Class 10 Science resource for Chapter 13: Our Environment from Book 1: Science. Starts on page 208 · Ends on page 217 · 10 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/science/science/our-environment/"
 layout: default
 ---
 

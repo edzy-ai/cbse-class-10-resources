@@ -1,7 +1,6 @@
 ---
 title: "Chapter 8: Introduction to Trigonometry | Class 10 Mathematics"
 description: "Free Class 10 Mathematics resource for Chapter 8: Introduction to Trigonometry from Book 1: Mathematics. Starts on page 113 · Ends on page 132 · 20 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/mathematics/mathematics/introduction-to-trigonometry/"
 layout: default
 ---
 

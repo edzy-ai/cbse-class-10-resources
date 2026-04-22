@@ -1,7 +1,6 @@
 ---
 title: "Book 1: First Flight | Class 10 English"
 description: "Free Class 10 English resources organized chapter-wise for Book 1: First Flight."
-permalink: "/class-10/english/first-flight/"
 layout: default
 ---
 

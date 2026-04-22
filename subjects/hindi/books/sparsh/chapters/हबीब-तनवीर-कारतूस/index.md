@@ -1,7 +1,6 @@
 ---
 title: "Chapter 14: हबीब तनवीर — कारतूस | Class 10 Hindi"
 description: "Free Class 10 Hindi resource for Chapter 14: हबीब तनवीर — कारतूस from Book 2: Sparsh. Starts on page 107 · Ends on page 116 · 10 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/hindi/sparsh/हबीब-तनवीर-कारतूस/"
 layout: default
 ---
 

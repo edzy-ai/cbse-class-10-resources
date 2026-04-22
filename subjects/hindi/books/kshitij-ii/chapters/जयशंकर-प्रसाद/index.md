@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: जयशंकर प्रसाद | Class 10 Hindi"
 description: "Free Class 10 Hindi resource for Chapter 3: जयशंकर प्रसाद from Book 1: Kshitij - II. Starts on page 17 · Ends on page 21 · 5 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/hindi/kshitij-ii/जयशंकर-प्रसाद/"
 layout: default
 ---
 

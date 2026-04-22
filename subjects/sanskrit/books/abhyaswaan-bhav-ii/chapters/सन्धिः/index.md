@@ -1,7 +1,6 @@
 ---
 title: "Chapter 6: सन्धिः | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 6: सन्धिः from Book 3: Abhyaswaan Bhav - II. Starts on page 38 · Ends on page 47 · 10 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/abhyaswaan-bhav-ii/सन्धिः/"
 layout: default
 ---
 

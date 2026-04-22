@@ -1,7 +1,6 @@
 ---
 title: "Chapter 11: वाच्‍य परिवर्तन | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 11: वाच्‍य परिवर्तन from Book 1: Vyakaranavithi. Starts on page 124 · Ends on page 128 · 5 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/vyakaranavithi/वाच्-य-परिवर्तन/"
 layout: default
 ---
 

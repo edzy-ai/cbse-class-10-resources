@@ -1,7 +1,6 @@
 ---
 title: "Book 2: Shemushi - II | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resources organized chapter-wise for Book 2: Shemushi - II."
-permalink: "/class-10/sanskrit/shemushi-ii/"
 layout: default
 ---
 

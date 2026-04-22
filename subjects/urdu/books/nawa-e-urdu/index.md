@@ -1,7 +1,6 @@
 ---
 title: "Book 1: Nawa-e-urdu | Class 10 Urdu"
 description: "Free Class 10 Urdu resources organized chapter-wise for Book 1: Nawa-e-urdu."
-permalink: "/class-10/urdu/nawa-e-urdu/"
 layout: default
 ---
 

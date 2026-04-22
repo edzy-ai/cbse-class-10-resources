@@ -1,7 +1,6 @@
 ---
 title: "Chapter 10: अनयोक्त्यः | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 10: अनयोक्त्यः from Book 2: Shemushi - II. Starts on page 82 · Ends on page 89 · 8 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/shemushi-ii/अनयोक्त्यः/"
 layout: default
 ---
 

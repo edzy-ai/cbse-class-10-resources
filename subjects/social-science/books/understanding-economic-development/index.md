@@ -1,7 +1,6 @@
 ---
 title: "Book 4: Understanding Economic Development | Class 10 Social Science"
 description: "Free Class 10 Social Science resources organized chapter-wise for Book 4: Understanding Economic Development."
-permalink: "/class-10/social-science/understanding-economic-development/"
 layout: default
 ---
 

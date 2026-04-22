@@ -1,7 +1,6 @@
 ---
 title: "Chapter 11: Amanda! | Class 10 English"
 description: "Free Class 10 English resource for Chapter 11: Amanda! from Book 1: First Flight. Starts on page 61 · Ends on page 62 · 2 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/first-flight/amanda/"
 layout: default
 ---
 

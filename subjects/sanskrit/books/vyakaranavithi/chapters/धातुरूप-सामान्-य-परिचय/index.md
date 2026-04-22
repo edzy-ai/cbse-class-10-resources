@@ -1,7 +1,6 @@
 ---
 title: "Chapter 5: धातुरूप सामान्‍य परिचय | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 5: धातुरूप सामान्‍य परिचय from Book 1: Vyakaranavithi. Starts on page 41 · Ends on page 48 · 8 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/vyakaranavithi/धातुरूप-सामान्-य-परिचय/"
 layout: default
 ---
 

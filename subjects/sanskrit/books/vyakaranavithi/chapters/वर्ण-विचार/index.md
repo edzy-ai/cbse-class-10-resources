@@ -1,7 +1,6 @@
 ---
 title: "Chapter 1: वर्ण विचार | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 1: वर्ण विचार from Book 1: Vyakaranavithi. Starts on page 1 · Ends on page 8 · 8 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/vyakaranavithi/वर्ण-विचार/"
 layout: default
 ---
 

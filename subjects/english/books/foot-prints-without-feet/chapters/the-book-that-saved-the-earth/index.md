@@ -1,7 +1,6 @@
 ---
 title: "Chapter 9: The Book That Saved the Earth | Class 10 English"
 description: "Free Class 10 English resource for Chapter 9: The Book That Saved the Earth from Book 2: Foot Prints Without feet. Starts on page 56 · Ends on page 69 · 14 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/foot-prints-without-feet/the-book-that-saved-the-earth/"
 layout: default
 ---
 

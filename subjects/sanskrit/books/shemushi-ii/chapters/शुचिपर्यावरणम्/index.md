@@ -1,7 +1,6 @@
 ---
 title: "Chapter 1: शुचिपर्यावरणम् | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 1: शुचिपर्यावरणम् from Book 2: Shemushi - II. Starts on page 3 · Ends on page 12 · 10 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/shemushi-ii/शुचिपर्यावरणम्/"
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Chapter 22: The Proposal | Class 10 English"
 description: "Free Class 10 English resource for Chapter 22: The Proposal from Book 1: First Flight. Starts on page 120 · Ends on page 139 · 20 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/first-flight/the-proposal/"
 layout: default
 ---
 

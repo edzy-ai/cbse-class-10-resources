@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: The Making of a Global World | Class 10 Social Science"
 description: "Free Class 10 Social Science resource for Chapter 3: The Making of a Global World from Book 3: India and the Contemporary World - II. Starts on page 53 · Ends on page 78 · 26 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/social-science/india-and-the-contemporary-world-ii/the-making-of-a-global-world/"
 layout: default
 ---
 

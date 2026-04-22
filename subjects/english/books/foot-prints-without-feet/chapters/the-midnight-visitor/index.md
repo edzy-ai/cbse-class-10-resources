@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: The Midnight Visitor | Class 10 English"
 description: "Free Class 10 English resource for Chapter 3: The Midnight Visitor from Book 2: Foot Prints Without feet. Starts on page 14 · Ends on page 19 · 6 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/foot-prints-without-feet/the-midnight-visitor/"
 layout: default
 ---
 

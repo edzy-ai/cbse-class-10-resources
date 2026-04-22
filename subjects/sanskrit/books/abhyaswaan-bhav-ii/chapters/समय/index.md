@@ -1,7 +1,6 @@
 ---
 title: "Chapter 10: समय: | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 10: समय: from Book 3: Abhyaswaan Bhav - II. Starts on page 81 · Ends on page 83 · 3 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/abhyaswaan-bhav-ii/समय/"
 layout: default
 ---
 

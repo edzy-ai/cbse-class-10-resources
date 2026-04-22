@@ -1,7 +1,6 @@
 ---
 title: "Chapter 7: Madam Rides the Bus | Class 10 English"
 description: "Free Class 10 English resource for Chapter 7: Madam Rides the Bus from Book 3: Words and Expressions - II. Starts on page 93 · Ends on page 108 · 16 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/words-and-expressions-ii/madam-rides-the-bus/"
 layout: default
 ---
 

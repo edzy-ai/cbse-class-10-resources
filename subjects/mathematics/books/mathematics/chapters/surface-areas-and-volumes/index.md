@@ -1,7 +1,6 @@
 ---
 title: "Chapter 12: Surface Areas and Volumes | Class 10 Mathematics"
 description: "Free Class 10 Mathematics resource for Chapter 12: Surface Areas and Volumes from Book 1: Mathematics. Starts on page 161 · Ends on page 170 · 10 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/mathematics/mathematics/surface-areas-and-volumes/"
 layout: default
 ---
 

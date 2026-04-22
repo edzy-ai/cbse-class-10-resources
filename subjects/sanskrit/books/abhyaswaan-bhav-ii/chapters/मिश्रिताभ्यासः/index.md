@@ -1,7 +1,6 @@
 ---
 title: "Chapter 13: मिश्रिताभ्यासः | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 13: मिश्रिताभ्यासः from Book 3: Abhyaswaan Bhav - II. Starts on page 94 · Ends on page 100 · 7 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/abhyaswaan-bhav-ii/मिश्रिताभ्यासः/"
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Chapter 5: Arithmetic Progressions | Class 10 Mathematics"
 description: "Free Class 10 Mathematics resource for Chapter 5: Arithmetic Progressions from Book 1: Mathematics. Starts on page 49 · Ends on page 72 · 24 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/mathematics/mathematics/arithmetic-progressions/"
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: Two Stories about Flying | Class 10 English"
 description: "Free Class 10 English resource for Chapter 3: Two Stories about Flying from Book 3: Words and Expressions - II. Starts on page 31 · Ends on page 44 · 14 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/english/words-and-expressions-ii/two-stories-about-flying/"
 layout: default
 ---
 

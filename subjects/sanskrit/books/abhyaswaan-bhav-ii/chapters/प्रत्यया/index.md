@@ -1,7 +1,6 @@
 ---
 title: "Chapter 8: प्रत्यया: | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 8: प्रत्यया: from Book 3: Abhyaswaan Bhav - II. Starts on page 57 · Ends on page 75 · 19 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/abhyaswaan-bhav-ii/प्रत्यया/"
 layout: default
 ---
 

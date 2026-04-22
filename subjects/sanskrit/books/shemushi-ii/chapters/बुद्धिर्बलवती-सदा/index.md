@@ -1,7 +1,6 @@
 ---
 title: "Chapter 2: बुद्धिर्बलवती सदा | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 2: बुद्धिर्बलवती सदा from Book 2: Shemushi - II. Starts on page 13 · Ends on page 21 · 9 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/shemushi-ii/बुद्धिर्बलवती-सदा/"
 layout: default
 ---
 

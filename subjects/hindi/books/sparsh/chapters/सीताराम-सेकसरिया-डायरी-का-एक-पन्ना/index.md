@@ -1,7 +1,6 @@
 ---
 title: "Chapter 9: सीताराम सेकसरिया – डायरी का एक पन्ना | Class 10 Hindi"
 description: "Free Class 10 Hindi resource for Chapter 9: सीताराम सेकसरिया – डायरी का एक पन्ना from Book 2: Sparsh. Starts on page 58 · Ends on page 66 · 9 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/hindi/sparsh/सीताराम-सेकसरिया-डायरी-का-एक-पन्ना/"
 layout: default
 ---
 

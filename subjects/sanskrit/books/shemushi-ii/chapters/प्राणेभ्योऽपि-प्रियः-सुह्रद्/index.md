@@ -1,7 +1,6 @@
 ---
 title: "Chapter 11: प्राणेभ्योऽपि प्रियः सुह्रद् | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 11: प्राणेभ्योऽपि प्रियः सुह्रद् from Book 2: Shemushi - II. Starts on page 0 · Ends on page 0. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/shemushi-ii/प्राणेभ्योऽपि-प्रियः-सुह्रद्/"
 layout: default
 ---
 

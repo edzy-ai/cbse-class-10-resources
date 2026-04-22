@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: सन्धि | Class 10 Sanskrit"
 description: "Free Class 10 Sanskrit resource for Chapter 3: सन्धि from Book 1: Vyakaranavithi. Starts on page 13 · Ends on page 34 · 22 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/sanskrit/vyakaranavithi/सन्धि/"
 layout: default
 ---
 

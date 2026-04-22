@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: Gender, Religion and Caste | Class 10 Social Science"
 description: "Free Class 10 Social Science resource for Chapter 3: Gender, Religion and Caste from Book 2: Democratic Politics. Starts on page 29 · Ends on page 45 · 17 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/social-science/democratic-politics/gender-religion-and-caste/"
 layout: default
 ---
 

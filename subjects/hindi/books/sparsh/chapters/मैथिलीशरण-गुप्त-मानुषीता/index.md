@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: मैथिलीशरण गुप्त – मानुषीता | Class 10 Hindi"
 description: "Free Class 10 Hindi resource for Chapter 3: मैथिलीशरण गुप्त – मानुषीता from Book 2: Sparsh. Starts on page 13 · Ends on page 19 · 7 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
-permalink: "/class-10/hindi/sparsh/मैथिलीशरण-गुप्त-मानुषीता/"
 layout: default
 ---
 
