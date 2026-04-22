@@ -2,7 +2,7 @@
 
 Free, structured study resources for **Class 10** students.
 
-This repository is organized by **subject → book → chapter** to help students quickly find useful academic resources.
+This repository is organized by **subject → book → chapter**.
 
 ## Subjects
 
@@ -17,11 +17,11 @@ This repository is organized by **subject → book → chapter** to help student
 
 ## What you will find
 
-- Chapter-wise resources
+- Chapter-wise academic resources
 - Book-wise navigation
-- AI study prompt links inside chapter pages
-- Structured learning paths
-- GitHub Pages friendly resource pages
+- Chapter numbering and page references where available
+- Public AI study prompts for students
+- GitHub Pages friendly structure
 
 ## Explore Other Classes
 
@@ -34,6 +34,4 @@ This repository is organized by **subject → book → chapter** to help student
 
 ## Learn with Edzy
 
-Edzy helps students learn with interactive, step-by-step support.
-
-Explore: https://www.edzy.ai
+[Explore Edzy](https://www.edzy.ai)

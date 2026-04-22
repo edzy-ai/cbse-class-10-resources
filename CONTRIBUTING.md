@@ -5,8 +5,8 @@
 This repository uses the following structure:
 
 - `subjects/{subject}/README.md`
-- `subjects/{subject}/books/{book}/README.md`
-- `subjects/{subject}/books/{book}/chapters/{chapter}/README.md`
+- `subjects/{subject}/books/{book}/`
+- `subjects/{subject}/books/{book}/chapters/{chapter}/`
 
 ## Content Rules
 
