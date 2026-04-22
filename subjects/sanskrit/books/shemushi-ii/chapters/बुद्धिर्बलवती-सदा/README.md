@@ -1,0 +1,68 @@
+---
+title: "Chapter 2: बुद्धिर्बलवती सदा | Class 10 Sanskrit"
+description: "Free Class 10 Sanskrit resource for Chapter 2: बुद्धिर्बलवती सदा from Book 2: Shemushi - II. Starts on page 13 · Ends on page 21 · 9 pages. Chapter overview, key concepts, important questions, AI study prompts, and Edzy learning support."
+permalink: "/class-10/sanskrit/shemushi-ii/बुद्धिर्बलवती-सदा/"
+layout: default
+---
+
+<div class="breadcrumbs">
+  <a href="../../../../../../README.md">Class 10</a> →
+  <a href="../../../../README.md">Sanskrit</a> →
+  <a href="../../README.md">Book 2: Shemushi - II</a> →
+  <span>Chapter 2: बुद्धिर्बलवती सदा</span>
+</div>
+
+# Chapter 2: बुद्धिर्बलवती सदा
+
+- **Subject:** Sanskrit
+- **Book:** Book 2: Shemushi - II
+- **NCERT Start Page:** 13
+- **NCERT End Page:** 21
+- **Number of Pages:** 9
+
+## Overview
+
+This page contains chapter-wise learning resources for **Chapter 2: बुद्धिर्बलवती सदा** from **Book 2: Shemushi - II** under **Class 10 Sanskrit**. This chapter spans starts on page 13 · ends on page 21 · 9 pages.
+
+## Key Concepts
+
+- Add key concepts here
+- Add important subtopics here
+- Add chapter highlights here
+
+## Important Questions
+
+1. Add important question 1
+2. Add important question 2
+3. Add important question 3
+
+## Common Mistakes
+
+- Add common mistake 1
+- Add common mistake 2
+
+## Study Tip
+
+Add one practical study tip for students preparing chapter 2: बुद्धिर्बलवती सदा.
+
+## AI Study Prompts
+
+- [Claude prompts](./ai/claude-prompts.md)
+- [ChatGPT prompts](./ai/chatgpt-prompts.md)
+- [Codex prompts](./ai/codex-prompts.md)
+
+<div class="nav-box">
+
+## Navigation
+
+- [Back to Book 2: Shemushi - II](../../README.md)
+- [Back to Sanskrit](../../../../README.md)
+- [Previous chapter: Chapter 1: शुचिपर्यावरणम्](../शुचिपर्यावरणम्/README.md)
+- [Next chapter: Chapter 3: शिशुलालनम्](../शिशुलालनम्/README.md)
+</div>
+
+## Learn with Edzy
+
+Need step-by-step explanations and interactive doubt solving for chapter 2: बुद्धिर्बलवती सदा?
+
+Explore Edzy: https://www.edzy.ai
