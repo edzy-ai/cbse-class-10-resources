@@ -6,14 +6,14 @@ This repository is organized by **subject → book → chapter**.
 
 ## Subjects
 
-- [English](./subjects/english/README.md)
-- [Health and Physical Education](./subjects/health-and-physical-education/README.md)
-- [Hindi](./subjects/hindi/README.md)
-- [Mathematics](./subjects/mathematics/README.md)
-- [Sanskrit](./subjects/sanskrit/README.md)
-- [Science](./subjects/science/README.md)
-- [Social Science](./subjects/social-science/README.md)
-- [Urdu](./subjects/urdu/README.md)
+- [English](./subjects/english/)
+- [Health and Physical Education](./subjects/health-and-physical-education/)
+- [Hindi](./subjects/hindi/)
+- [Mathematics](./subjects/mathematics/)
+- [Sanskrit](./subjects/sanskrit/)
+- [Science](./subjects/science/)
+- [Social Science](./subjects/social-science/)
+- [Urdu](./subjects/urdu/)
 
 ## What you will find
 
