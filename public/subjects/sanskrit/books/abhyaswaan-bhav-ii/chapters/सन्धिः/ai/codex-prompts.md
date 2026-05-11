@@ -1,0 +1,15 @@
+# Codex Prompts – Chapter 6: सन्धिः
+
+Use these prompts to learn **Chapter 6: सन्धिः** from **Book 3: Abhyaswaan Bhav - II** with code, structure, or guided generation.
+
+## Visualization
+Write simple code to help visualize or simulate a concept from सन्धिः.
+
+## Practice Generator
+Generate random practice problems based on सन्धिः.
+
+## Step-by-step Solver
+Write code that solves a sample problem from सन्धिः step by step.
+
+## Revision Aid
+Create a quick structured revision sheet for सन्धिः.

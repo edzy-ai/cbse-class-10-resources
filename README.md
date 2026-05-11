@@ -1,37 +1,16 @@
-# Class 10 Resources
+# React + Vite
 
-Free, structured study resources for **Class 10** students.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-This repository is organized by **subject → book → chapter**.
+Currently, two official plugins are available:
 
-## Subjects
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-- [English](./subjects/english/)
-- [Health and Physical Education](./subjects/health-and-physical-education/)
-- [Hindi](./subjects/hindi/)
-- [Mathematics](./subjects/mathematics/)
-- [Sanskrit](./subjects/sanskrit/)
-- [Science](./subjects/science/)
-- [Social Science](./subjects/social-science/)
-- [Urdu](./subjects/urdu/)
+## React Compiler
 
-## What you will find
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-- Chapter-wise academic resources
-- Book-wise navigation
-- Chapter numbering and page references where available
-- Public AI study prompts for students
-- GitHub Pages friendly structure
+## Expanding the ESLint configuration
 
-## Explore Other Classes
-
-- [Class 6](https://github.com/edzy-ai/cbse-class-6-resources) · [Pages](https://edzy-ai.github.io/cbse-class-6-resources/)
-- [Class 7](https://github.com/edzy-ai/cbse-class-7-resources) · [Pages](https://edzy-ai.github.io/cbse-class-7-resources/)
-- [Class 8](https://github.com/edzy-ai/cbse-class-8-resources) · [Pages](https://edzy-ai.github.io/cbse-class-8-resources/)
-- [Class 9](https://github.com/edzy-ai/cbse-class-9-resources) · [Pages](https://edzy-ai.github.io/cbse-class-9-resources/)
-- [Class 11](https://github.com/edzy-ai/cbse-class-11-resources) · [Pages](https://edzy-ai.github.io/cbse-class-11-resources/)
-- [Class 12](https://github.com/edzy-ai/cbse-class-12-resources) · [Pages](https://edzy-ai.github.io/cbse-class-12-resources/)
-
-## Learn with Edzy
-
-[Explore Edzy](https://www.edzy.ai)
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
