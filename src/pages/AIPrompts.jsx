@@ -1,5 +1,6 @@
 import { useParams, Link } from 'react-router-dom'
 import { useState, useEffect } from 'react'
+import promptCategories from '../data/promptCategories'
 
 export default function AIPrompts() {
   const { subject, book, chapter, aiType } = useParams()
@@ -33,6 +34,14 @@ export default function AIPrompts() {
       })
   }, [subject, book, chapter, aiType])
 
+  function getCategory(prompt) {
+    const entry = promptCategories.find(c => {
+      const staticPrefix = c.template.split('{{')[0].trim()
+      return prompt.startsWith(staticPrefix)
+    })
+    return entry ? entry.label : null
+  }
+
   function copy(text, idx) {
     navigator.clipboard.writeText(text).then(() => {
       setCopied(idx)
@@ -50,6 +59,11 @@ export default function AIPrompts() {
       <h1 className="text-3xl font-bold text-slate-900 capitalize mb-6">{aiType.replace(/-/g, ' ')}</h1>
       {prompts.map((p, idx) => (
         <div key={idx} className="relative bg-white border border-slate-200 rounded-2xl p-5 pr-24 mb-4">
+          {getCategory(p.prompt) && (
+            <span className="inline-block text-xs font-semibold text-blue-600 bg-blue-50 border border-blue-200 rounded-full px-3 py-0.5 mb-2">
+              {getCategory(p.prompt)}
+            </span>
+          )}
           <h2 className="text-lg font-semibold text-slate-800 mb-2">{p.heading}</h2>
           <p className="text-slate-600 leading-relaxed">{p.prompt}</p>
           <button

@@ -1,38 +1,102 @@
 import { useParams, Link } from 'react-router-dom'
 import { useState, useEffect } from 'react'
+import { Search, ChevronRight } from 'lucide-react'
+import Navbar from '../components/Navbar'
+import Footer from '../components/Footer'
 
-const allChapterPaths = import.meta.glob('/public/subjects/*/books/*/chapters/*/index.md')
+const subjectColorClass = {
+  mathematics: 'text-blue-500', science: 'text-green-500', english: 'text-orange-500',
+  'social-science': 'text-purple-500', hindi: 'text-pink-500', sanskrit: 'text-yellow-500',
+  'health-and-physical-education': 'text-teal-500', urdu: 'text-violet-500',
+}
+
+function fmt(slug) { return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()) }
 
 export default function BookList() {
   const { subject, book } = useParams()
   const [chapters, setChapters] = useState([])
+  const [search, setSearch]     = useState('')
+  const colorClass = subjectColorClass[subject] || 'text-blue-500'
+  const base = import.meta.env.BASE_URL
 
   useEffect(() => {
-    const prefix = `/public/subjects/${subject}/books/${book}/chapters/`
-    const matched = Object.keys(allChapterPaths)
-      .filter(p => p.startsWith(prefix))
-      .map(p => {
-        const id = p.split('/').at(-2)
-        return { id, label: id.replace(/-/g, ' ') }
+    fetch(`${base}data.json`)
+      .then(r => r.json())
+      .then(data => {
+        const bookData = (data[subject] || {})[book] || {}
+        setChapters(Object.entries(bookData).map(([slug, chapter]) => ({
+          id: slug,
+          title: chapter.meta.title || fmt(slug),
+          bookName: chapter.meta.bookName,
+          svgIcon: chapter.meta.svgIcon,
+          topicCount: (chapter.meta.topics || []).length,
+          promptCount: chapter.prompts.length,
+        })))
       })
-    setChapters(matched)
-  }, [subject, book])
+      .catch(() => {})
+  }, [subject, book, base])
+
+  const filtered = chapters.filter(c =>
+    !search || c.title.toLowerCase().includes(search.toLowerCase())
+  )
 
   return (
-    <div className="max-w-4xl mx-auto px-5 py-10">
-      <Link to={`/subjects/${subject}`} className="text-blue-600 hover:underline text-sm">← {subject.replace(/-/g, ' ')}</Link>
-      <h1 className="text-3xl font-bold text-slate-900 capitalize my-4">{book.replace(/-/g, ' ')}</h1>
-      <div className="grid grid-cols-[repeat(auto-fill,minmax(200px,1fr))] gap-4">
-        {chapters.map(c => (
-          <Link
-            key={c.id}
-            to={`/subjects/${subject}/books/${book}/chapters/${c.id}`}
-            className="bg-white border border-slate-200 rounded-2xl p-5 text-slate-900 hover:shadow-md transition-shadow no-underline"
-          >
-            <h3 className="text-lg font-semibold capitalize">{c.label}</h3>
-          </Link>
-        ))}
-      </div>
+    <div className="flex flex-col min-h-screen bg-gray-50">
+      <Navbar />
+      <main className="flex-1">
+        <div className="bg-white border-b border-gray-100 px-6 py-8">
+          <div className="max-w-6xl mx-auto">
+            <div className="flex items-center gap-1 text-xs text-gray-400 mb-2 flex-wrap">
+              <Link to="/" className="text-gray-400 no-underline hover:text-gray-600">Subject</Link>
+              <ChevronRight size={11} />
+              <Link to={`/subjects/${subject}`} className="text-gray-400 no-underline hover:text-gray-600">{fmt(subject)}</Link>
+              <ChevronRight size={11} />
+              <span className={`font-semibold ${colorClass}`}>Chapters</span>
+            </div>
+            <h1 className="text-2xl font-extrabold text-gray-900 tracking-tight">CBSE Class 10 {fmt(subject)}</h1>
+            <p className="text-xs text-gray-400 mt-1">Subject: {fmt(subject)} › Book: {fmt(book)}</p>
+          </div>
+        </div>
+
+        <div className="max-w-6xl mx-auto px-6 py-7">
+          <div className="flex items-center justify-between mb-5 flex-wrap gap-3">
+            <h2 className="text-base font-bold text-gray-900">Chapters</h2>
+            <div className="relative">
+              <Search size={13} className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" />
+              <input
+                value={search}
+                onChange={e => setSearch(e.target.value)}
+                placeholder="Search chapters..."
+                className="pl-8 pr-3 py-2 border border-gray-200 rounded-lg text-xs outline-none w-300 bg-white text-gray-700 placeholder-gray-400 focus:border-indigo-300"
+              />
+            </div>
+          </div>
+
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3.5">
+            {filtered.map(c => (
+              <Link key={c.id} to={`/subjects/${subject}/books/${book}/chapters/${c.id}`} className="no-underline">
+                <div className="bg-white border border-gray-100 rounded-2xl p-4 h-full hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 flex flex-col">
+                  {c.svgIcon && (
+                    <img
+                      src={c.svgIcon}
+                      alt=""
+                      className="w-10 h-10 rounded-xl mb-3 object-contain bg-indigo-50 p-1.5"
+                      onError={e => e.target.style.display = 'none'}
+                    />
+                  )}
+                  <div className="text-sm font-bold text-gray-900 mb-1 leading-snug">{c.title}</div>
+                  {c.bookName && <div className="text-xs text-green-600 font-medium mb-1">{c.bookName}</div>}
+                  <div className="text-xs text-gray-400 mb-3">
+                    Starts on page · {c.topicCount} topics
+                  </div>
+                  <div className={`text-xs font-semibold mt-auto ${colorClass}`}>Go to prompts →</div>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </main>
+      <Footer />
     </div>
   )
 }

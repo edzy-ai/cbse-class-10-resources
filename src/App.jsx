@@ -3,7 +3,6 @@ import Home from './pages/Home'
 import SubjectList from './pages/SubjectList'
 import BookList from './pages/BookList'
 import ChapterView from './pages/ChapterView'
-import AIPrompts from './pages/AIPrompts'
 import './App.css'
 
 function App() {
@@ -14,7 +13,6 @@ function App() {
         <Route path="/subjects/:subject" element={<SubjectList />} />
         <Route path="/subjects/:subject/books/:book" element={<BookList />} />
         <Route path="/subjects/:subject/books/:book/chapters/:chapter" element={<ChapterView />} />
-        <Route path="/subjects/:subject/books/:book/chapters/:chapter/ai/:aiType" element={<AIPrompts />} />
       </Routes>
     </Router>
   )
