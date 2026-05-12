@@ -13,7 +13,7 @@ dist-ssr
 *.local
 
 # API data dump (place your prompts.json here before building)
-data/prompts.json
+
 public/data.json
 
 # Editor directories and files
