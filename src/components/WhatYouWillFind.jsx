@@ -1,10 +1,10 @@
-import { BookOpen, List, FileText, Sparkles } from 'lucide-react'
+import { BookOpen, List, FileText, Lightbulb } from 'lucide-react'
 
 const features = [
   { Icon: BookOpen, color: 'text-white', bg: 'bg-blue-500',   cardBg: 'bg-blue-50',   title: 'Book-wise structure', desc: 'Students Can Browse Resources By Subject, Then By Book, Then By Chapter.' },
   { Icon: List,     color: 'text-white', bg: 'bg-green-500',  cardBg: 'bg-green-50',  title: 'Chapter Number',      desc: 'Book And Chapter Order Are Preserved For Textbook Alignment.' },
   { Icon: FileText, color: 'text-white', bg: 'bg-orange-500', cardBg: 'bg-orange-50', title: 'Page references',     desc: 'Where Available, Chapter Pages Include NCERT Page Details.' },
-  { Icon: Sparkles, color: 'text-white', bg: 'bg-purple-500', cardBg: 'bg-purple-50', title: 'AI prompts',          desc: 'Every Chapter Includes Claude, ChatGPT, And Codex Prompts For Self-Study.' },
+  { Icon: Lightbulb, color: 'text-white', bg: 'bg-purple-500', cardBg: 'bg-purple-50', title: 'AI prompts',          desc: 'Every Chapter Includes Claude, ChatGPT, And Codex Prompts For Self-Study.' },
 ]
 
 export default function WhatYouWillFind() {
@@ -14,7 +14,7 @@ export default function WhatYouWillFind() {
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-3">
         {features.map(({ Icon, color, bg, cardBg, title, desc }) => (
           <div key={title} className={`${cardBg} rounded-2xl p-3.5 flex items-start gap-2.5`}>
-            <div className={`w-8 h-8 ${bg} rounded-lg flex items-center justify-center shrink-0`}>
+            <div className={`w-13 ${bg} rounded-lg flex items-center justify-center shrink-0 self-stretch px-1.5`}>
               <Icon size={15} className={color} />
             </div>
             <div className="min-w-0">

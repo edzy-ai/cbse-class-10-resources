@@ -31,6 +31,8 @@ export default function BookList() {
           bookName: chapter.meta.bookName,
           svgIcon: chapter.meta.svgIcon,
           topicCount: (chapter.meta.topics || []).length,
+          startsOnPage: chapter.meta.startsOnPage ?? null,
+          endsOnPage:   chapter.meta.endsOnPage   ?? null,
           promptCount: chapter.prompts.length,
           edzyColor: chapter.meta.edzyColor || null,
         })))
@@ -98,7 +100,7 @@ export default function BookList() {
                     </div>
                   )}
                   <div className="text-xs text-gray-400 mb-3">
-                    Starts on page · {c.topicCount} topics
+                    {c.startsOnPage != null ? `Starts on page ${c.startsOnPage} · Ends on page ${c.endsOnPage ?? '?'}` : ''}
                   </div>
                   <div className="text-xs font-semibold mt-auto" style={{ color: c.edzyColor?.light?.foreground || '#6366F1' }}>Go to prompts →</div>
                 </div>

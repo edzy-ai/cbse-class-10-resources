@@ -192,7 +192,7 @@ export default function ChapterView() {
       {/* Share Modal */}
       {shareModal && (() => {
         const pageUrl = `https://edzy-ai.github.io/cbse-class-10-resources/#${window.location.hash.slice(1)}`
-        const shareMessage = `Found a useful CBSE Class 10 ${fmt(subject)} prompt.\n\nChapter: ${meta.title || fmt(chapter)}\nPrompt: ${shareModal.heading}\n\nUse it with ChatGPT, Gemini, or Claude to learn faster.\n\n${pageUrl}\n\nFree CBSE resources by Edzy.`
+        const shareMessage = `Found a useful CBSE Class 10 ${fmt(subject)} prompt.\n\nChapter: ${meta.title || fmt(chapter)}\nPrompt: ${shareModal.heading}\n\nUse it with ChatGPT, Gemini, or Claude to learn faster.\n\n${pageUrl}\n\nFree Class 10 CBSE Prompts by Edzy`
         return (
           <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4" onClick={() => setShareModal(null)}>
             <div className="bg-white rounded-2xl w-full max-w-md shadow-2xl" onClick={e => e.stopPropagation()}>

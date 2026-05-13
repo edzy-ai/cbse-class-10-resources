@@ -53,15 +53,19 @@ function groupItems(items) {
     if (!data[subjectSlug][bookSlug][chapterSlug]) {
       data[subjectSlug][bookSlug][chapterSlug] = {
         meta: {
-          id:           ref._id          || null,
-          title:        ref.title        || null,
-          slug:         chapterSlug,
-          bookName:     ref.bookName     || null,
-          subjectName:  ref.subjectName  || null,
-          examSeoTitle: ref.examSeoTitle || null,
-          svgIcon:      ref.svgIcon      || null,
-          topics:       ref.topics       || [],
-          edzyColor:    item.edzyColor   || null,
+          id:            ref._id          || null,
+          title:         ref.title        || null,
+          slug:          chapterSlug,
+          bookName:      ref.bookName     || null,
+          subjectName:   ref.subjectName  || null,
+          examSeoTitle:  ref.examSeoTitle || null,
+          svgIcon:       ref.svgIcon      || null,
+          bookSvgIcon:   item.bookSvgIcon    || null,
+          subjectSvgIcon:item.subjectSvgIcon || null,
+          startsOnPage:  item.startsOnPage   ?? null,
+          endsOnPage:    item.endsOnPage     ?? null,
+          topics:        ref.topics       || [],
+          edzyColor:     item.edzyColor   || null,
         },
         prompts: [],
       }

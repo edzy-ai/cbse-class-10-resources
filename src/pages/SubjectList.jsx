@@ -35,11 +35,15 @@ export default function SubjectList() {
         const firstBook = Object.values(subjectData)[0] || {}
         const firstChapter = Object.values(firstBook)[0] || {}
         setEdzyColor(firstChapter.meta?.edzyColor || null)
-        setBooks(Object.keys(subjectData).map(bookSlug => ({
-          id: bookSlug,
-          label: fmt(bookSlug),
-          chapterCount: Object.keys(subjectData[bookSlug]).length,
-        })))
+        setBooks(Object.keys(subjectData).map(bookSlug => {
+          const firstBookChapter = Object.values(subjectData[bookSlug])[0] || {}
+          return {
+            id: bookSlug,
+            label: fmt(bookSlug),
+            bookSvgIcon: firstBookChapter.meta?.bookSvgIcon || null,
+            edzyColor: firstBookChapter.meta?.edzyColor || null,
+          }
+        }))
       })
       .catch(() => {})
   }, [subject, base])
@@ -74,8 +78,11 @@ export default function SubjectList() {
               {books.map(b => (
                 <Link key={b.id} to={`/subjects/${subject}/books/${b.id}`} className="no-underline">
                   <div className="bg-white border border-gray-100 rounded-2xl p-5 h-full hover:shadow-md hover:-translate-y-0.5 transition-all duration-200">
-                    <div className="w-11 h-11 rounded-xl flex items-center justify-center mb-3" style={{ backgroundColor: bg }}>
-                      <Icon size={22} style={{ color: fg }} />
+                    <div className="w-11 h-11 rounded-xl flex items-center justify-center mb-3" style={{ backgroundColor: b.edzyColor?.light?.foreground || fg }}>
+                      {b.bookSvgIcon
+                        ? <img src={b.bookSvgIcon} alt="" className="w-7 h-7 object-contain" onError={e => e.target.style.display = 'none'} />
+                        : <Icon size={22} style={{ color: '#fff' }} />
+                      }
                     </div>
                     <div className="text-sm font-bold text-gray-900 mb-1.5">{b.label}</div>
                     <p className="text-xs text-gray-400 mb-3">Resources organised by book, chapter, and page.</p>

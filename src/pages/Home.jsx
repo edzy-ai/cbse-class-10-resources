@@ -36,7 +36,8 @@ export default function Home() {
           const firstBook = Object.values(d[slug] || {})[0] || {}
           const firstChapter = Object.values(firstBook)[0] || {}
           const edzyColor = firstChapter.meta?.edzyColor || null
-          return { id: slug, label: fmt(slug), edzyColor, ...(subjectConfig[slug] || { Icon: GraduationCap, desc: '' }) }
+          const subjectSvgIcon = firstChapter.meta?.subjectSvgIcon || null
+          return { id: slug, label: fmt(slug), edzyColor, subjectSvgIcon, ...(subjectConfig[slug] || { Icon: GraduationCap, desc: '' }) }
         }))
         const all = []
         for (const [subjectSlug, books] of Object.entries(d))
@@ -96,13 +97,13 @@ export default function Home() {
                 </h1>
               </h1>
               <p className="text-gray-500 text-sm leading-relaxed mb-6 max-w-md">
-                Free chapter-wise NCERT and related resources organised by subject, book, and chapter for CBSE students.
+                Free chapter-wise NCERT prompts, structured by subject, book, and chapter for CBSE Class 10 students
               </p>
               <div className="flex gap-2.5 flex-wrap">
                 {[
-                  { Icon: BookOpen, bgClass: 'bg-blue-50',   colorClass: 'text-blue-500',   label: 'Chapter-wise', sub: 'All chapters' },
-                  { Icon: Zap,      bgClass: 'bg-purple-50', colorClass: 'text-purple-500', label: 'AI Prompts',   sub: 'ChatGPT, Claude' },
-                  { Icon: Check,    bgClass: 'bg-green-50',  colorClass: 'text-green-500',  label: 'Free & Open',  sub: 'Always free' },
+                  { Icon: BookOpen, bgClass: 'bg-blue-50',   colorClass: 'text-blue-500',   label: 'Chapter-wise', sub: 'ORGANIZED' },
+                  { Icon: Zap,      bgClass: 'bg-purple-50', colorClass: 'text-purple-500', label: 'AI Prompts',   sub: 'FOR LEARNING' },
+                  { Icon: Check,    bgClass: 'bg-green-50',  colorClass: 'text-green-500',  label: 'Free & Open',  sub: 'FOR EVERYONE' },
                 ].map(b => (
                   <div key={b.label} className={`flex items-center gap-2 ${b.bgClass} border border-gray-100 rounded-xl px-3 py-2`}>
                     <b.Icon size={15} className={b.colorClass} />
@@ -192,14 +193,17 @@ export default function Home() {
           <section className="pt-10 pb-6">
             <h2 className="text-lg font-bold text-gray-900 mb-5">Subjects</h2>
             <div className="grid grid-cols-1 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3.5">
-              {subjects.map(({ id, label, Icon, edzyColor, desc }) => {
+              {subjects.map(({ id, label, Icon, edzyColor, subjectSvgIcon, desc }) => {
                 const fg = edzyColor?.light?.foreground || '#6366F1'
                 const bg = edzyColor?.light?.background || '#EEF2FF'
                 return (
                   <Link key={id} to={`/subjects/${id}`} className="no-underline group">
                     <div className="bg-white border border-gray-100 rounded-2xl p-4 h-full hover:shadow-md hover:-translate-y-0.5 transition-all duration-200">
-                      <div className="w-11 h-11 rounded-xl flex items-center justify-center mb-3" style={{ backgroundColor: bg }}>
-                        <Icon size={22} style={{ color: fg }} />
+                      <div className="w-11 h-11 rounded-xl flex items-center justify-center mb-3" style={{ backgroundColor: fg }}>
+                        {subjectSvgIcon
+                          ? <img src={subjectSvgIcon} alt="" className="w-7 h-7 object-contain" onError={e => e.target.style.display = 'none'} />
+                          : <Icon size={22} style={{ color: '#fff' }} />
+                        }
                       </div>
                       <div className="text-sm font-bold mb-1.5" style={{ color: fg }}>{label}</div>
                       <p className="text-xs text-gray-400 leading-relaxed mb-3 line-clamp-3">{desc}</p>
