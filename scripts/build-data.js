@@ -61,6 +61,7 @@ function groupItems(items) {
           examSeoTitle: ref.examSeoTitle || null,
           svgIcon:      ref.svgIcon      || null,
           topics:       ref.topics       || [],
+          edzyColor:    item.edzyColor   || null,
         },
         prompts: [],
       }
@@ -69,10 +70,11 @@ function groupItems(items) {
     // push this prompt into the chapter's prompts array
     if (item.promptText) {
       data[subjectSlug][bookSlug][chapterSlug].prompts.push({
-        index:    item.promptTemplateIndex ?? null,
-        heading:  categoryHeading(item.promptTemplateText, item.promptTemplateIndex),
-        prompt:   item.promptText,
-        template: item.promptTemplateText || null,
+        index:      item.promptTemplateIndex ?? null,
+        heading:    categoryHeading(item.promptTemplateText, item.promptTemplateIndex),
+        prompt:     item.promptText,
+        template:   item.promptTemplateText || null,
+        edzyColor:  item.edzyColor          || null,
       })
     }
   }

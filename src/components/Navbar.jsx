@@ -25,7 +25,10 @@ export default function Navbar() {
   return (
     <nav className="bg-white border-b border-gray-100 sticky top-0 z-50">
       <div className="max-w-6xl mx-auto px-6 h-14 flex items-center justify-between">
-        <Link to="/" className="text-lg font-extrabold text-gray-900 tracking-tight no-underline">Edzy</Link>
+        <Link to="/" className="flex items-center gap-2 no-underline">
+          <img src={`${import.meta.env.BASE_URL}CBSE-Color.svg`} alt="CBSE" className="w-7 h-7" />
+          <span className="text-lg font-bold text-gray-900 tracking-tight">CBSE Class 10</span>
+        </Link>
         <div ref={ref} className="relative">
           <button
             onClick={() => setOpen(o => !o)}

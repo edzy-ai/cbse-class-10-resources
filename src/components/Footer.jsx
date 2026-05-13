@@ -1,18 +1,21 @@
-import { Layers, ChevronRight } from 'lucide-react'
+import { ChevronRight } from 'lucide-react'
+
+const base = import.meta.env.BASE_URL
 
 export default function Footer() {
   return (
     <footer className="mt-auto">
-      <div className="bg-gradient-to-br from-[#1a1a2e] to-[#2d1b69] px-6 py-7 flex items-center justify-between flex-wrap gap-4">
-        <div className="flex items-center gap-4">
-          <div className="bg-white/15 rounded-xl p-2.5 flex items-center justify-center">
-            <Layers size={20} className="text-white" />
+      <div className="bg-gradient-to-r from-[#006BFF] to-[#4B35F5] px-5 py-5 sm:px-12 sm:py-8 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+        <div className="flex items-center gap-3 sm:gap-5">
+          <div className="bg-white/15 rounded-xl p-2 sm:p-3 flex items-center justify-center shrink-0">
+            <img src={`${base}Frame.svg`} alt="Edzy" className="w-8 h-8 sm:w-10 sm:h-10" />
           </div>
           <div>
-            <div className="text-white font-bold text-sm">Learn with Edzy</div>
-            <div className="text-white/60 text-xs mt-0.5 leading-relaxed">
-              Need step-by-step explanations and interactive help?<br />
-              Explore Edzy for a better learning experience.
+            <div className="text-white font-bold text-sm sm:text-base">Edzy For classes 6-12</div>
+            <div className="text-white/100 text-xs sm:text-sm mt-0.5 sm:mt-1 leading-relaxed max-w-sm">
+              Edzy is a personal AI tutor for CBSE and State Board
+              students, with curriculum-aligned guidance, practice,
+              revision, and study plans that adapt to each learner.
             </div>
           </div>
         </div>
@@ -20,12 +23,12 @@ export default function Footer() {
           href="https://www.edzy.ai"
           target="_blank"
           rel="noopener noreferrer"
-          className="bg-white text-gray-900 font-bold text-sm px-5 py-2.5 rounded-xl no-underline flex items-center gap-1.5 whitespace-nowrap hover:bg-gray-50"
+          className="bg-white text-[#1D4ED8] font-bold text-sm px-5 py-2.5 sm:px-6 sm:py-3 rounded-xl no-underline flex items-center justify-center gap-1.5 whitespace-nowrap hover:bg-gray-50 self-start sm:self-auto"
         >
           Explore Edzy <ChevronRight size={14} />
         </a>
       </div>
-      <div className="bg-[#111] py-2.5 px-6 text-center text-[11px] text-white/35">
+      <div className="bg-white py-2.5 px-6 text-center text-[11px] text-black font-bold">
         Built for students. Structured by subject, book, and chapter.
       </div>
     </footer>

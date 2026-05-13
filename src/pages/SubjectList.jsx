@@ -4,6 +4,7 @@ import { Calculator, FlaskConical, Languages, Landmark, BookMarked, Scroll, Hear
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import WhatYouWillFind from '../components/WhatYouWillFind'
+import SEO from '../components/SEO'
 
 const subjectMeta = {
   mathematics:                    { Icon: Calculator,   colorClass: 'text-blue-500',   bgClass: 'bg-blue-50'   },
@@ -20,8 +21,9 @@ function fmt(slug) { return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUp
 
 export default function SubjectList() {
   const { subject } = useParams()
-  const [books, setBooks] = useState([])
-  const { Icon, colorClass, bgClass } = subjectMeta[subject] || { Icon: GraduationCap, colorClass: 'text-blue-500', bgClass: 'bg-blue-50' }
+  const [books, setBooks]       = useState([])
+  const [edzyColor, setEdzyColor] = useState(null)
+  const { Icon } = subjectMeta[subject] || { Icon: GraduationCap }
   const base = import.meta.env.BASE_URL
 
   useEffect(() => {
@@ -29,6 +31,10 @@ export default function SubjectList() {
       .then(r => r.json())
       .then(data => {
         const subjectData = data[subject] || {}
+        // grab edzyColor from first chapter of first book
+        const firstBook = Object.values(subjectData)[0] || {}
+        const firstChapter = Object.values(firstBook)[0] || {}
+        setEdzyColor(firstChapter.meta?.edzyColor || null)
         setBooks(Object.keys(subjectData).map(bookSlug => ({
           id: bookSlug,
           label: fmt(bookSlug),
@@ -38,8 +44,15 @@ export default function SubjectList() {
       .catch(() => {})
   }, [subject, base])
 
+  const fg = edzyColor?.light?.foreground || '#6366F1'
+  const bg = edzyColor?.light?.background || '#EEF2FF'
+
   return (
     <div className="flex flex-col min-h-screen bg-gray-50">
+      <SEO
+        title={`Class 10 ${fmt(subject)} Prompts`}
+        description={`Explore all ${fmt(subject)} books and chapters for CBSE Class 10. Access free AI prompts for every chapter to use with ChatGPT, Gemini, and Claude. Perfect for quick understanding, practice questions, and exam preparation.`}
+      />
       <Navbar />
       <main className="flex-1">
         <div className="bg-white border-b border-gray-100 px-6 py-8">
@@ -47,7 +60,7 @@ export default function SubjectList() {
             <div className="flex items-center gap-1 text-xs text-gray-400 mb-2">
               <Link to="/" className="text-gray-400 no-underline hover:text-gray-600">Subject</Link>
               <ChevronRight size={11} />
-              <span className={`font-semibold ${colorClass}`}>Book: {fmt(subject)}</span>
+              <span style={{ color: fg }} className="font-semibold text-xs">Book: {fmt(subject)}</span>
             </div>
             <h1 className="text-2xl font-extrabold text-gray-900 tracking-tight">CBSE Class 10 {fmt(subject)}</h1>
             <p className="text-xs text-gray-400 mt-1">Subject: {fmt(subject)} › Book: {fmt(subject)}</p>
@@ -57,16 +70,16 @@ export default function SubjectList() {
         <div className="max-w-6xl mx-auto px-6">
           <section className="pt-8 pb-6">
             <h2 className="text-base font-bold text-gray-900 mb-4">Books</h2>
-            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3.5">
+            <div className="grid grid-cols-1 sm:grid-cols-3 md:grid-cols-4 gap-3.5">
               {books.map(b => (
                 <Link key={b.id} to={`/subjects/${subject}/books/${b.id}`} className="no-underline">
                   <div className="bg-white border border-gray-100 rounded-2xl p-5 h-full hover:shadow-md hover:-translate-y-0.5 transition-all duration-200">
-                    <div className={`w-11 h-11 ${bgClass} rounded-xl flex items-center justify-center mb-3`}>
-                      <Icon size={22} className={colorClass} />
+                    <div className="w-11 h-11 rounded-xl flex items-center justify-center mb-3" style={{ backgroundColor: bg }}>
+                      <Icon size={22} style={{ color: fg }} />
                     </div>
                     <div className="text-sm font-bold text-gray-900 mb-1.5">{b.label}</div>
                     <p className="text-xs text-gray-400 mb-3">Resources organised by book, chapter, and page.</p>
-                    <div className={`text-xs font-semibold ${colorClass}`}>Explore →</div>
+                    <div className="text-xs font-semibold" style={{ color: fg }}>Explore →</div>
                   </div>
                 </Link>
               ))}
