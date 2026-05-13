@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import { HashRouter as Router, Routes, Route } from 'react-router-dom'
 import Home from './pages/Home'
 import SubjectList from './pages/SubjectList'
 import BookList from './pages/BookList'
@@ -7,7 +7,7 @@ import './App.css'
 
 function App() {
   return (
-    <Router basename="/cbse-class-10-resources">
+    <Router>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/subjects/:subject" element={<SubjectList />} />
@@ -19,3 +19,5 @@ function App() {
 }
 
 export default App
+
+
