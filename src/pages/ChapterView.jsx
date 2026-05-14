@@ -1,4 +1,4 @@
-import { useParams, Link, useLocation } from 'react-router-dom'
+import { useParams, Link } from 'react-router-dom'
 import { useState, useEffect, useRef } from 'react'
 import { ChevronDown, ChevronRight, Copy, Check, Share2, X } from 'lucide-react'
 import { FaWhatsapp, FaTelegram, FaLinkedin, FaXTwitter } from 'react-icons/fa6'
@@ -34,7 +34,6 @@ function fmt(slug) { return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUp
 
 export default function ChapterView() {
   const { subject, book, chapter } = useParams()
-  const location = useLocation()
   const [chapterData, setChapterData] = useState(null)
   const [expanded, setExpanded]       = useState(new Set())
   const [copied, setCopied]           = useState(null)
@@ -54,15 +53,16 @@ export default function ChapterView() {
       .catch(() => {})
   }, [subject, book, chapter, base])
 
-  // Scroll to prompt if ?prompt=index is in URL
+  // Scroll to prompt only when ?prompt= is in the hash (shared link)
   useEffect(() => {
-    if (didScroll.current) return
-    const params = new URLSearchParams(location.search)
-    const idx = params.get('prompt')
-    if (idx === null) return
+    if (didScroll.current || !chapterData) return
+    const hash = window.location.hash  // e.g. #/subjects/.../chapters/x?prompt=2
+    const match = hash.match(/[?&]prompt=(\d+)/)
+    if (!match) return
+    const idx = match[1]
     const el = document.getElementById(`prompt-${idx}`)
-    if (el) { didScroll.current = true; setTimeout(() => el.scrollIntoView({ behavior: 'smooth', block: 'start' }), 300) }
-  }, [chapterData, location.search])
+    if (el) { didScroll.current = true; setTimeout(() => el.scrollIntoView({ behavior: 'smooth', block: 'start' }), 400) }
+  }, [chapterData])
 
   const prompts = chapterData?.prompts || []
   const meta    = chapterData?.meta    || {}

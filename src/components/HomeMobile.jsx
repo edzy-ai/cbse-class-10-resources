@@ -59,23 +59,33 @@ export default function HomeMobile({ subjects, randomPrompt, loading, copied, ba
 
       {/* Random Prompt Card */}
       <div className="bg-white border border-gray-100 rounded-2xl p-4 shadow-sm">
-        <div className="flex items-center justify-between mb-1">
-          <div className="flex items-center gap-1.5 font-bold text-sm text-gray-900">
-            <Sparkles size={14} className="text-blue-500" /> Try a random AI Prompt
-          </div>
-          <div className="flex items-center gap-1">
-            <span className="text-[10px] text-gray-400 font-semibold uppercase tracking-wide mr-1">Use in</span>
-            {[
-              { name: 'ChatGPT', svg: 'openai.svg',       url: 'https://chat.openai.com' },
-              { name: 'Gemini',  svg: 'gemini-color.svg', url: 'https://gemini.google.com' },
-              { name: 'Claude',  svg: 'claude-color.svg', url: 'https://claude.ai' },
-            ].map(({ name, svg, url }) => (
-              <button key={name} onClick={() => randomPrompt && onOpenWithPrompt(url, randomPrompt.prompt)} className="cursor-pointer bg-transparent border-none p-0" title={name}>
-                <img src={`${base}${svg}`} alt={name} className="w-5 h-5" />
-              </button>
-            ))}
-          </div>
-        </div>
+      <div className="flex items-start justify-between gap-2 mb-1">
+  <div className="flex items-center gap-1.5 font-bold text-sm text-gray-900">
+    <Sparkles size={14} className="text-blue-500 shrink-0" />
+    <span>Try a random AI Prompt</span>
+  </div>
+
+  <div className="flex items-center gap-1 flex-nowrap shrink-0 pt-0.5">
+    <span className="text-[10px] text-gray-400 font-semibold uppercase tracking-wide mr-1 whitespace-nowrap shrink-0">
+      Use in
+    </span>
+
+    {[
+      { name: 'ChatGPT', svg: 'openai.svg', url: 'https://chat.openai.com' },
+      { name: 'Gemini', svg: 'gemini-color.svg', url: 'https://gemini.google.com' },
+      { name: 'Claude', svg: 'claude-color.svg', url: 'https://claude.ai' },
+    ].map(({ name, svg, url }) => (
+      <button
+        key={name}
+        onClick={() => randomPrompt && onOpenWithPrompt(url, randomPrompt.prompt)}
+        className="cursor-pointer bg-transparent border-none p-0 shrink-0"
+        title={name}
+      >
+        <img src={`${base}${svg}`} alt={name} className="w-5 h-5" />
+      </button>
+    ))}
+  </div>
+</div>
         <p className="text-xs text-gray-400 mb-3">Preview the kind of prompts you'll find inside.</p>
 
         {randomPrompt && (
