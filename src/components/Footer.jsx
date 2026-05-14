@@ -28,7 +28,7 @@ export default function Footer() {
           Explore Edzy <ChevronRight size={14} />
         </a>
       </div>
-      <div className="bg-white py-2.5 px-6 text-center text-[11px] text-black font-bold">
+      <div className="bg-gradient-to-r from-[#006BFF] to-[#4B35F5] px-5 pb-4 sm:px-12 text-center text-[9px] text-white/80">
         Built for students. Structured by subject, book, and chapter.
       </div>
     </footer>

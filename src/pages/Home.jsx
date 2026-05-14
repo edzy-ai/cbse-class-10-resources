@@ -4,6 +4,7 @@ import { Zap, Copy, Check, Calculator, FlaskConical, Languages, Landmark, BookMa
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import WhatYouWillFind from '../components/WhatYouWillFind'
+import HomeMobile from '../components/HomeMobile'
 import SEO from '../components/SEO'
 
 const subjectConfig = {
@@ -83,6 +84,23 @@ export default function Home() {
       />
       <Navbar />
       <main className="flex-1">
+
+        {/* Mobile layout */}
+        <div className="sm:hidden bg-gray-50">
+          <HomeMobile
+            subjects={subjects}
+            randomPrompt={randomPrompt}
+            loading={loading}
+            copied={copied}
+            base={base}
+            onGenerate={generate}
+            onCopy={copy}
+            onOpenWithPrompt={openWithPrompt}
+          />
+        </div>
+
+        {/* Desktop layout */}
+        <div className="hidden sm:block">
 
         {/* Hero */}
         <div className="bg-white border-b border-gray-100">
@@ -216,6 +234,7 @@ export default function Home() {
           </section>
           <WhatYouWillFind />
         </div>
+        </div>{/* end desktop */}
       </main>
       <Footer />
     </div>

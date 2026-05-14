@@ -1,5 +1,5 @@
-import { useParams, Link } from 'react-router-dom'
-import { useState, useEffect } from 'react'
+import { useParams, Link, useLocation } from 'react-router-dom'
+import { useState, useEffect, useRef } from 'react'
 import { ChevronDown, ChevronRight, Copy, Check, Share2, X } from 'lucide-react'
 import { FaWhatsapp, FaTelegram, FaLinkedin, FaXTwitter } from 'react-icons/fa6'
 import { MdEmail } from 'react-icons/md'
@@ -34,12 +34,14 @@ function fmt(slug) { return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUp
 
 export default function ChapterView() {
   const { subject, book, chapter } = useParams()
+  const location = useLocation()
   const [chapterData, setChapterData] = useState(null)
   const [expanded, setExpanded]       = useState(new Set())
   const [copied, setCopied]           = useState(null)
   const [shareModal, setShareModal]   = useState(null)
   const [modalCopied, setModalCopied] = useState(false)
   const base = import.meta.env.BASE_URL
+  const didScroll = useRef(false)
 
   useEffect(() => {
     fetch(`${base}data.json`)
@@ -51,6 +53,16 @@ export default function ChapterView() {
       })
       .catch(() => {})
   }, [subject, book, chapter, base])
+
+  // Scroll to prompt if ?prompt=index is in URL
+  useEffect(() => {
+    if (didScroll.current) return
+    const params = new URLSearchParams(location.search)
+    const idx = params.get('prompt')
+    if (idx === null) return
+    const el = document.getElementById(`prompt-${idx}`)
+    if (el) { didScroll.current = true; setTimeout(() => el.scrollIntoView({ behavior: 'smooth', block: 'start' }), 300) }
+  }, [chapterData, location.search])
 
   const prompts = chapterData?.prompts || []
   const meta    = chapterData?.meta    || {}
@@ -127,6 +139,7 @@ export default function ChapterView() {
             return (
               <div
                 key={idx}
+                id={`prompt-${idx}`}
                 className={`bg-white border rounded-2xl mb-2.5 overflow-hidden transition-colors duration-200 ${isOpen ? `border-${s.divider.split('-')[1]}-200` : 'border-gray-100'}`}
               >
                 {/* Header row */}
@@ -140,7 +153,6 @@ export default function ChapterView() {
                   <div className="flex-1 min-w-0">
                     <div className="flex items-center gap-2 flex-wrap">
                       <span className="font-semibold text-sm text-gray-900 leading-snug">{p.heading}</span>
-                      <span className={`text-[10px] font-bold ${s.tagText} ${s.tagBg} border ${s.tagBorder} rounded-full px-2.5 py-0.5 shrink-0`}>{s.tag}</span>
                     </div>
                     {/* Copy + Share on mobile */}
                     <div className="flex items-center gap-1.5 mt-1.5 sm:hidden" onClick={e => e.stopPropagation()}>
@@ -191,8 +203,10 @@ export default function ChapterView() {
 
       {/* Share Modal */}
       {shareModal && (() => {
-        const pageUrl = `https://edzy-ai.github.io/cbse-class-10-resources/#${window.location.hash.slice(1)}`
-        const shareMessage = `👀 Don't miss this!\n\nBest CBSE Class 10 ${fmt(subject)} prompt for:\n📘 Chapter: ${meta.title || fmt(chapter)}\n✨ Prompt: ${shareModal.heading}\n\n 💡Try it on ChatGPT / Gemini / Claude\n\nStart learning smarter now :\n👉 ${pageUrl}\n\n— Edzy 🚀`
+        const promptIdx = shareModal.index ?? prompts.indexOf(shareModal)
+        const pageUrl = `https://edzy-ai.github.io/cbse-class-10-resources/#/subjects/${subject}/books/${book}/chapters/${chapter}?prompt=${promptIdx}`
+        const bulb = String.fromCodePoint(0x1F4A1), bookEmoji = String.fromCodePoint(0x1F4D8), point = String.fromCodePoint(0x1F449)
+        const shareMessage = `Hey, this helped me ${String.fromCodePoint(0x1F447)}\n\nClass 10 ${fmt(subject)}\n${bookEmoji} ${meta.title || fmt(chapter)}\n${bulb} ${shareModal.heading}\n\nPaste it in ChatGPT / Gemini / Claude and try.\n\nLink ${point} ${pageUrl}\n\nEdzy - AI Tutor for School Students\nhttps://www.edzy.ai/download`
         return (
           <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4" onClick={() => setShareModal(null)}>
             <div className="bg-white rounded-2xl w-full max-w-md shadow-2xl" onClick={e => e.stopPropagation()}>
