@@ -14,7 +14,7 @@ dist-ssr
 
 # API data dump (place your prompts.json here before building)
 
-public/data.json
+
 
 # Editor directories and files
 .vscode/*
