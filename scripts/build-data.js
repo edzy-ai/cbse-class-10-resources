@@ -101,24 +101,23 @@ function groupItems(items) {
 const TEMPLATE_SIGNATURES = [
   {
     category: 'Quick Understanding',
-    // unique phrase that only appears in the "Quick Understanding" template
     match: 'simple and quick way',
   },
   {
-    category: 'Practice Questions',
-    match: 'exam-style questions',
-  },
-  {
     category: 'Quick Review',
-    match: 'quick revision questions',
+    match: 'quick revision guide',
   },
   {
     category: 'Find My Mistake',
-    match: 'solved a question.*incorrectly',  // supports regex
+    match: 'identify and correct their mistake',
   },
   {
     category: 'Exam Prep',
-    match: 'most important concepts and question types',
+    match: 'exam preparation guide',
+  },
+  {
+    category: 'Practice Questions',
+    match: 'generate practice questions',
   },
 ]
 
