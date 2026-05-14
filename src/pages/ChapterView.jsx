@@ -48,25 +48,7 @@ const shareApps = [
     Icon: FaTelegram,
     colorClass: 'text-sky-500',
     getUrl: t => `https://t.me/share/url?${encodeShareText(t)}`
-  },
-  {
-    name: 'X',
-    Icon: FaXTwitter,
-    colorClass: 'text-gray-900',
-    getUrl: t => `https://twitter.com/intent/tweet?${encodeShareText(t)}`
-  },
-  {
-    name: 'LinkedIn',
-    Icon: FaLinkedin,
-    colorClass: 'text-blue-600',
-    getUrl: t => `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(t)}`
-  },
-  {
-    name: 'Email',
-    Icon: MdEmail,
-    colorClass: 'text-gray-500',
-    getUrl: t => `mailto:?body=${encodeURIComponent(t)}`
-  },
+  }
 ]
 
 function fmt(slug) {
@@ -153,7 +135,7 @@ export default function ChapterView() {
           <div className="max-w-4xl mx-auto">
             <div className="flex items-center gap-1 text-xs text-gray-400 mb-2 flex-wrap">
               <Link to="/" className="text-gray-400 no-underline hover:text-gray-600">
-                Subject
+                Home
               </Link>
 
               <ChevronRight size={11} />
@@ -368,7 +350,6 @@ https://www.edzy.ai/download`
                 <h3 className="font-bold text-base text-gray-900">
                   Share this prompt
                 </h3>
-
                 <button
                   onClick={() => setShareModal(null)}
                   className="w-7 h-7 flex items-center justify-center rounded-full hover:bg-gray-100 text-gray-400 hover:text-gray-600 cursor-pointer bg-transparent border-none transition-colors"
@@ -376,16 +357,10 @@ https://www.edzy.ai/download`
                   <X size={16} />
                 </button>
               </div>
-
               <div className="px-5 pb-3 flex items-center gap-2 shrink-0">
                 <span className="font-semibold text-sm text-gray-900 leading-snug flex-1 min-w-0 truncate">
                   {shareModal.heading}
                 </span>
-
-                <span className="shrink-0 text-[10px] font-bold text-green-600 bg-green-50 border border-green-200 rounded-full px-2.5 py-0.5">
-                  {(categoryStyle[shareModal.heading] || fallbackStyle).tag}
-                </span>
-
                 <button
                   onClick={copyModal}
                   className="shrink-0 bg-blue-500 hover:bg-blue-600 text-white rounded-lg px-3 py-1.5 text-xs font-semibold cursor-pointer flex items-center gap-1.5 transition-colors"
@@ -416,7 +391,7 @@ https://www.edzy.ai/download`
                   Share on
                 </p>
 
-                <div className="grid grid-cols-5 gap-2">
+                <div className="grid grid-cols-4 gap-2">
                   {shareApps.map(({ name, Icon, colorClass: ic, getUrl }) => (
                     <a
                       key={name}

@@ -55,7 +55,7 @@ export default function BookList() {
         <div className="bg-white border-b border-gray-100 px-6 py-8">
           <div className="max-w-6xl mx-auto">
             <div className="flex items-center gap-1 text-xs text-gray-400 mb-2 flex-wrap">
-              <Link to="/" className="text-gray-400 no-underline hover:text-gray-600">Subject</Link>
+              <Link to="/" className="text-gray-400 no-underline hover:text-gray-600">Home</Link>
               <ChevronRight size={11} />
               <Link to={`/subjects/${subject}`} className="text-gray-400 no-underline hover:text-gray-600">{fmt(subject)}</Link>
               <ChevronRight size={11} />
