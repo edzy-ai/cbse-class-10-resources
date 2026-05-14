@@ -426,7 +426,7 @@ https://www.edzy.ai/download`
                       className="flex flex-col items-center gap-1.5 py-3 bg-gray-50 border border-gray-100 rounded-xl no-underline hover:bg-gray-100 transition-colors"
                     >
                       <Icon size={22} className={ic} />
-                      <span className="text-[10px] text-gray-600 font-medium">
+                      <span className="text-[8px] text-gray-600 font-medium">
                         {name}
                       </span>
                     </a>

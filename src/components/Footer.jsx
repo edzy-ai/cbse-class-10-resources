@@ -9,7 +9,7 @@ export default function Footer() {
         <img src={`${base}Frame.svg`} alt="Edzy" className="w-14 h-14 sm:w-16 sm:h-16 shrink-0" />
         <div>
           <div className="text-white font-bold text-sm sm:text-base">Edzy For classes 6-12</div>
-          <div className="text-white/100 text-xs sm:text-sm mt-0.5 sm:mt-1 leading-relaxed max-w-sm">
+          <div className="text-white/100 text-[12px] sm:text-sm mt-0.5 sm:mt-1 leading-relaxed max-w-sm">
             Edzy is a personal AI tutor for CBSE and State Board
             students, with curriculum-aligned guidance, practice,
             revision, and study plans that adapt to each learner.
