@@ -361,10 +361,10 @@ https://www.edzy.ai/download`
             onClick={() => setShareModal(null)}
           >
             <div
-              className="bg-white rounded-2xl w-full max-w-md shadow-2xl"
+              className="bg-white rounded-2xl w-full max-w-sm sm:max-w-md shadow-2xl max-h-[90vh] flex flex-col"
               onClick={e => e.stopPropagation()}
             >
-              <div className="flex items-center justify-between px-5 pt-5 pb-3">
+              <div className="flex items-center justify-between px-5 pt-5 pb-3 shrink-0">
                 <h3 className="font-bold text-base text-gray-900">
                   Share this prompt
                 </h3>
@@ -377,7 +377,7 @@ https://www.edzy.ai/download`
                 </button>
               </div>
 
-              <div className="px-5 pb-3 flex items-center gap-2">
+              <div className="px-5 pb-3 flex items-center gap-2 shrink-0">
                 <span className="font-semibold text-sm text-gray-900 leading-snug flex-1 min-w-0 truncate">
                   {shareModal.heading}
                 </span>
@@ -402,7 +402,7 @@ https://www.edzy.ai/download`
                 </button>
               </div>
 
-              <div className="px-5 pb-4">
+              <div className="px-5 pb-4 overflow-y-auto flex-1">
                 <textarea
                   readOnly
                   value={shareMessage}
@@ -411,7 +411,7 @@ https://www.edzy.ai/download`
                 />
               </div>
 
-              <div className="px-5 pb-5">
+              <div className="px-5 pb-5 shrink-0">
                 <p className="text-xs font-semibold text-gray-500 mb-3">
                   Share on
                 </p>
