@@ -161,25 +161,28 @@ export default function Home() {
                 <div className="bg-gray-50 border border-gray-200 rounded-xl p-3.5 mb-3.5">
                   <p className="text-xs text-gray-700 leading-relaxed line-clamp-4">{randomPrompt.prompt}</p>
                   <div className="mt-2.5 flex gap-1.5 flex-wrap justify-center">
-                    <span className="text-[10px] font-semibold text-blue-600 bg-blue-50 border border-blue-100 rounded-full px-2.5 py-0.5">
+                    <Link to={`/subjects/${randomPrompt.subjectSlug}`} className="no-underline text-[10px] font-semibold text-blue-600 bg-blue-50 border border-blue-100 rounded-full px-2.5 py-0.5 hover:bg-blue-100 transition-colors">
                       {fmt(randomPrompt.subjectSlug)}
-                    </span>
-                    <span className="text-[10px] font-semibold text-gray-600 bg-white border border-gray-200 rounded-full px-2.5 py-0.5">
+                    </Link>
+                    <Link to={`/subjects/${randomPrompt.subjectSlug}/books/${randomPrompt.bookSlug}/chapters/${randomPrompt.chapterSlug}?prompt=${randomPrompt.index}`} className="no-underline text-[10px] font-semibold text-gray-600 bg-white border border-gray-200 rounded-full px-2.5 py-0.5 hover:bg-gray-100 transition-colors">
                       {randomPrompt.chapterTitle || fmt(randomPrompt.chapterSlug)}
-                    </span>
+                    </Link>
                     {(() => {
                       const categoryBadge = {
-                        'Quick Understanding': { label: 'Learn',           cls: 'text-green-600 bg-green-50 border-green-200' },
-                        'Practice Questions':  { label: 'Practice',        cls: 'text-blue-600 bg-blue-50 border-blue-200'   },
-                        'Quick Review':        { label: 'Quick Revision',  cls: 'text-orange-600 bg-orange-50 border-orange-200' },
-                        'Find My Mistake':     { label: 'Find My Mistake', cls: 'text-red-600 bg-red-50 border-red-200'     },
-                        'Exam Prep':           { label: 'Exam Prep',       cls: 'text-purple-600 bg-purple-50 border-purple-200' },
+                        'Quick Understanding': { label: 'Learn',           cls: 'text-green-600 bg-green-50 border-green-200 hover:bg-green-100' },
+                        'Practice Questions':  { label: 'Practice',        cls: 'text-blue-600 bg-blue-50 border-blue-200 hover:bg-blue-100'   },
+                        'Quick Review':        { label: 'Quick Revision',  cls: 'text-orange-600 bg-orange-50 border-orange-200 hover:bg-orange-100' },
+                        'Find My Mistake':     { label: 'Find My Mistake', cls: 'text-red-600 bg-red-50 border-red-200 hover:bg-red-100'     },
+                        'Exam Prep':           { label: 'Exam Prep',       cls: 'text-purple-600 bg-purple-50 border-purple-200 hover:bg-purple-100' },
                       }
                       const badge = categoryBadge[randomPrompt.heading]
                       return badge ? (
-                        <span className={`text-[10px] font-semibold border rounded-full px-2.5 py-0.5 ${badge.cls}`}>
+                        <Link
+                          to={`/subjects/${randomPrompt.subjectSlug}/books/${randomPrompt.bookSlug}/chapters/${randomPrompt.chapterSlug}?prompt=${randomPrompt.index}`}
+                          className={`no-underline text-[10px] font-semibold border rounded-full px-2.5 py-0.5 transition-colors ${badge.cls}`}
+                        >
                           {badge.label}
-                        </span>
+                        </Link>
                       ) : null
                     })()}
                   </div>

@@ -92,16 +92,21 @@ export default function HomeMobile({ subjects, randomPrompt, loading, copied, ba
           <div className="bg-gray-50 border border-gray-200 rounded-xl p-3.5 mb-3">
             <p className="text-xs text-gray-700 leading-relaxed line-clamp-4">{randomPrompt.prompt}</p>
             <div className="mt-2.5 flex gap-1.5 flex-wrap">
-              <span className="text-[10px] font-semibold text-blue-600 bg-blue-50 border border-blue-100 rounded-full px-2.5 py-0.5">
+              <Link to={`/subjects/${randomPrompt.subjectSlug}`} className="no-underline text-[10px] font-semibold text-blue-600 bg-blue-50 border border-blue-100 rounded-full px-2.5 py-0.5 hover:bg-blue-100 transition-colors">
                 {fmt(randomPrompt.subjectSlug)}
-              </span>
-              <span className="text-[10px] font-semibold text-gray-600 bg-white border border-gray-200 rounded-full px-2.5 py-0.5">
+              </Link>
+              <Link to={`/subjects/${randomPrompt.subjectSlug}/books/${randomPrompt.bookSlug}/chapters/${randomPrompt.chapterSlug}?prompt=${randomPrompt.index}`} className="no-underline text-[10px] font-semibold text-gray-600 bg-white border border-gray-200 rounded-full px-2.5 py-0.5 hover:bg-gray-100 transition-colors">
                 {randomPrompt.chapterTitle || fmt(randomPrompt.chapterSlug)}
-              </span>
+              </Link>
               {(() => {
                 const badge = categoryBadge[randomPrompt.heading]
                 return badge ? (
-                  <span className={`text-[10px] font-semibold border rounded-full px-2.5 py-0.5 ${badge.cls}`}>{badge.label}</span>
+                  <Link
+                    to={`/subjects/${randomPrompt.subjectSlug}/books/${randomPrompt.bookSlug}/chapters/${randomPrompt.chapterSlug}?prompt=${randomPrompt.index}`}
+                    className={`no-underline text-[10px] font-semibold border rounded-full px-2.5 py-0.5 transition-colors ${badge.cls}`}
+                  >
+                    {badge.label}
+                  </Link>
                 ) : null
               })()}
             </div>
